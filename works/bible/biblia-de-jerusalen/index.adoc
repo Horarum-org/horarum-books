@@ -1,0 +1,32 @@
+= La Biblia de Jerusalén
+:subtitle: fwefw
+:author:  Escuela Bíblica y Arqueológica de Jerusalén y Equipo de Traductores de la NBJ
+:toc: left
+:doctype: variant
+:toclevels: 2
+:lang: es
+
+// 2. FRONT MATTER (Crucial for Catholic Bibles)
+[preface]
+== Imprimatur
+_Nihil Obstat_::
+Arthur J. Scanlan, S.T.D., Censor Librorum
+
+_Imprimatur_::
++ Patrick Cardinal Hayes, Archbishop of New York +
+New York, March 1, 1899
+
+[preface]
+== Preface to the Douay-Rheims Version
+At the request of the faithful... (Preface text goes here)
+
+// 3. THE OLD TESTAMENT
+// We use leveloffset to ensure the headings in the included files
+// drop down one level (e.g., "== Genesis" becomes "=== Genesis")
+:leveloffset: +1
+
+[[bible.ot]]
+= The Old Testament
+
+// --- The Pentateuch ---
+include::1.old-testament/01.genesis.adoc[]
