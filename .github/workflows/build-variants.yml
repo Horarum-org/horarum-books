@@ -58,6 +58,8 @@ jobs:
       matrix:
         variant: ${{ fromJson(needs.detect-variants.outputs.variants) }}
     
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -77,13 +79,23 @@ jobs:
           mkdir -p dist
           echo "Seeding variant: ${{ matrix.variant }}"
           pnpm run seed "${{ matrix.variant }}"
-          # Create a sanitized name for the artifact
+          # Create a sanitized name for the release
           VARIANT_NAME=$(echo "${{ matrix.variant }}" | sed 's/\//-/g')
+          VERSION=$(date +'%Y%m%d%H%M%S')
           echo "variant_name=$VARIANT_NAME" >> $GITHUB_OUTPUT
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          
+          # Create a zip of the dist directory content
+          cd dist && zip -r "../${VARIANT_NAME}.zip" . && cd ..
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         with:
-          name: variant-${{ steps.seed.outputs.variant_name }}
-          path: dist/
-          if-no-files-found: error
+          tag_name: ${{ steps.seed.outputs.variant_name }}-v${{ steps.seed.outputs.version }}
+          name: ${{ steps.seed.outputs.variant_name }} v${{ steps.seed.outputs.version }}
+          files: ${{ steps.seed.outputs.variant_name }}.zip
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
