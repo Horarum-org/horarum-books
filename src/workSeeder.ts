@@ -2,7 +2,7 @@ import {seedNodes} from './nodeSeeder';
 import {Variant, Work} from './model';
 import {processImage} from './image-utils';
 import {parseAsciiDocFile} from "./asciidoctor-utils";
-import {initDb, insertVariant, insertWork} from "./db-utils";
+import {closeDb, initDb, insertVariant, insertWork} from "./db-utils";
 
 export async function seedWorkVariant(variantPath: string) {
     const [workId, variantId] = variantPath.split('/');
@@ -22,13 +22,13 @@ export async function seedWorkVariant(variantPath: string) {
         language: variantDocument.getAttribute("lang")
     }
 
-    await seedNodes(variantId, work);
-
     const db = initDb(`dist/${variantId}/${variantId}`);
+
+    await seedNodes(variantId, work, db);
     await insertWork(work, db);
 
     processImage(work, variantId);
     await insertVariant(variant, db)
 
-    db.run(`VACUUM`);
+    closeDb(db);
 }

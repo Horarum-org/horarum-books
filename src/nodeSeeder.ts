@@ -1,20 +1,18 @@
-import {closeDb, initDb, insertNode, insertNodeId} from './db-utils';
+import {insertNode, insertNodeId} from './db-utils';
 import {parseAsciiDocFile} from './asciidoctor-utils';
 import {Work} from './model';
 import {Database} from 'sqlite3';
 import type {AbstractBlock, AbstractNode, Block, Document} from 'asciidoctor';
 import fs from 'fs';
 
-export async function seedNodes(variantId: string, work: Work) {
+export async function seedNodes(variantId: string, work: Work, db: Database) {
     fs.mkdirSync(`dist/${variantId}`, {recursive: true});
 
-    const db = initDb(`dist/${variantId}/${variantId}`);
     const doc = parseAsciiDocFile(
         `../works/${work.id}/${variantId}/${variantId}.adoc`,
     );
 
     await insertDocument(doc, db);
-    closeDb(db);
 }
 
 async function insertDocument(doc: Document, db: Database) {
