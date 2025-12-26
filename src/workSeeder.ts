@@ -3,6 +3,7 @@ import {Variant, Work} from './model';
 import {processImage} from './image-utils';
 import {parseAsciiDocFile} from "./asciidoctor-utils";
 import {closeDb, initDb, insertVariant, insertWork} from "./db-utils";
+import fs from "fs";
 
 export async function seedWorkVariant(variantPath: string) {
     const [workId, variantId] = variantPath.split('/');
@@ -21,6 +22,11 @@ export async function seedWorkVariant(variantPath: string) {
         workId: workId,
         language: variantDocument.getAttribute("lang")
     }
+
+    if (fs.existsSync(`dist/${variantId}`)) {
+        fs.rmSync(`dist/${variantId}`, {recursive: true});
+    }
+    fs.mkdirSync(`dist/${variantId}`, {recursive: true});
 
     const db = initDb(`dist/${variantId}/${variantId}`);
 
