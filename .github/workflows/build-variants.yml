@@ -81,7 +81,8 @@ jobs:
           pnpm run seed "${{ matrix.variant }}"
           # Create a sanitized name for the release
           VARIANT_NAME=$(basename "${{ matrix.variant }}")
-          VERSION=$(date +'%Y%m%d%H%M%S')
+          # Get version from version.json
+          VERSION=$(jq -r '.version' "works/${{ matrix.variant }}/version.json")
           echo "variant_name=$VARIANT_NAME" >> $GITHUB_OUTPUT
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           
