@@ -20,99 +20,44 @@ export function initDb(name: string): Database {
         db.run(
             `CREATE TABLE IF NOT EXISTS works
              (
-                 rowId
-                 INTEGER
-                 PRIMARY
-                 KEY
-                 AUTOINCREMENT,
-                 id
-                 TEXT,
-                 title
-                 TEXT
+                 rowId INTEGER PRIMARY KEY AUTOINCREMENT,
+                 id    TEXT,
+                 title TEXT
              );`,
         );
         db.run(
             `CREATE TABLE IF NOT EXISTS variants
-            (
-                rowId
-                INTEGER
-                PRIMARY
-                KEY
-                AUTOINCREMENT,
-                id
-                TEXT,
-                title
-                TEXT,
-                language
-                TEXT,
-                workRowId
-                INTEGER,
-                FOREIGN
-                KEY
              (
-                workRowId
-             ) REFERENCES works
-             (
-                 rowid
-             ) ON DELETE CASCADE,
-                FOREIGN KEY
-             (
-                 id
-             ) REFERENCES nodeIds
-             (
-                 id
-             )
-               ON DELETE CASCADE
-                );`,
+                 rowId     INTEGER PRIMARY KEY AUTOINCREMENT,
+                 id        TEXT,
+                 title     TEXT,
+                 language  TEXT,
+                 workRowId INTEGER,
+                 FOREIGN KEY (workRowId) REFERENCES works (rowid) ON DELETE CASCADE,
+                 FOREIGN KEY (id) REFERENCES nodeIds (id) ON DELETE CASCADE
+             );`,
         );
         db.run(
             `
                 CREATE TABLE IF NOT EXISTS nodes
                 (
-                    rowId
-                    INTEGER
-                    PRIMARY
-                    KEY
-                    AUTOINCREMENT,
-                    name
-                    INTEGER,
-                    parentRowId
-                    INTEGER,
-                    attributes
-                    TEXT,
-                    content
-                    TEXT,
-                    FOREIGN
-                    KEY
-                (
-                    parentRowId
-                ) REFERENCES nodes
-                (
-                    rowid
-                ) ON DELETE CASCADE
-                    )`,
+                    rowId       INTEGER PRIMARY KEY AUTOINCREMENT,
+                    name        INTEGER,
+                    parentRowId INTEGER,
+                    attributes  TEXT,
+                    content     TEXT,
+                    FOREIGN KEY (parentRowId) REFERENCES nodes (rowid) ON DELETE CASCADE
+                )`,
         );
         db.run(
             `CREATE TABLE IF NOT EXISTS nodeIds
-            (
-                id
-                TEXT
-                NOT
-                NULL,
-                nodeRowId
-                INTEGER
-                NOT
-                NULL,
-                FOREIGN
-                KEY
              (
-                nodeRowId
-             ) REFERENCES nodes
-             (
-                 rowid
-             ) ON DELETE CASCADE
-                )`,
+                 id        TEXT    NOT NULL,
+                 nodeRowId INTEGER NOT NULL,
+                 FOREIGN KEY (nodeRowId) REFERENCES nodes (rowid) ON DELETE CASCADE
+             )`,
         );
+        db.run(`VACUUM`)
     });
 
     return db;
