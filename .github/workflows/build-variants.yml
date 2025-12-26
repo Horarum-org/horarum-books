@@ -80,7 +80,7 @@ jobs:
           echo "Seeding variant: ${{ matrix.variant }}"
           pnpm run seed "${{ matrix.variant }}"
           # Create a sanitized name for the release
-          VARIANT_NAME=$(echo "${{ matrix.variant }}" | sed 's/\//-/g')
+          VARIANT_NAME=$(basename "${{ matrix.variant }}")
           VERSION=$(date +'%Y%m%d%H%M%S')
           echo "variant_name=$VARIANT_NAME" >> $GITHUB_OUTPUT
           echo "version=$VERSION" >> $GITHUB_OUTPUT
