@@ -1,0 +1,24 @@
+[[ccc-es]]
+= Catecismo de la Iglesia Católica
+:toc: left
+:doctype: book
+:toclevels: 2
+:lang: es
+
+:leveloffset: +1
+
+include::0-prologue/ccc-prologue.adoc[]
+
+:leveloffset: -1
+
+[[ccc-part-1]]
+== Primera parte: Profesión de la fe
+
+[[ccc-part-2]]
+== Segunda parte: La celebración del misterio cristiano
+
+[[ccc-part-3]]
+== Tercera parte: La vida en Cristo
+
+[[ccc-part-4]]
+== Cuarta parte: La oración cristiana

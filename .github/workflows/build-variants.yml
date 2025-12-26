@@ -1,0 +1,91 @@
+name: Build Variants
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'works/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'works/**'
+  workflow_dispatch:
+
+jobs:
+  detect-variants:
+    runs-on: ubuntu-latest
+    outputs:
+      variants: ${{ steps.set-variants.outputs.variants }}
+      any_changed: ${{ steps.set-variants.outputs.any_changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files in works
+        id: changed-files
+        uses: tj-actions/changed-files@v45
+        with:
+          files: works/**
+
+      - name: Set variants matrix
+        id: set-variants
+        run: |
+          VARIANTS=$(echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep '^works/' | cut -d'/' -f2,3 | sort -u || true)
+          VALID_VARIANTS=()
+          for VARIANT in $VARIANTS; do
+            if [[ "$VARIANT" == */* ]] && [ -d "works/$VARIANT" ]; then
+              VALID_VARIANTS+=("$VARIANT")
+            fi
+          done
+          
+          if [ ${#VALID_VARIANTS[@]} -eq 0 ]; then
+            echo "variants=[]" >> $GITHUB_OUTPUT
+            echo "any_changed=false" >> $GITHUB_OUTPUT
+          else
+            # Convert to JSON array
+            JSON_VARIANTS=$(printf '%s\n' "${VALID_VARIANTS[@]}" | jq -R . | jq -s -c .)
+            echo "variants=$JSON_VARIANTS" >> $GITHUB_OUTPUT
+            echo "any_changed=true" >> $GITHUB_OUTPUT
+          fi
+
+  build:
+    needs: detect-variants
+    if: needs.detect-variants.outputs.any_changed == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        variant: ${{ fromJson(needs.detect-variants.outputs.variants) }}
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run seed for variant
+        id: seed
+        run: |
+          mkdir -p dist
+          echo "Seeding variant: ${{ matrix.variant }}"
+          pnpm run seed "${{ matrix.variant }}"
+          # Create a sanitized name for the artifact
+          VARIANT_NAME=$(echo "${{ matrix.variant }}" | sed 's/\//-/g')
+          echo "variant_name=$VARIANT_NAME" >> $GITHUB_OUTPUT
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: variant-${{ steps.seed.outputs.variant_name }}
+          path: dist/
+          if-no-files-found: error

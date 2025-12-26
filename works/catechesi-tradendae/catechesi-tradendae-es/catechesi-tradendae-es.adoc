@@ -1,0 +1,15 @@
+[[catechesi-tradendae-es]]
+= Catechesi Tradendae
+:toc: left
+:doctype: book
+:toclevels: 2
+:lang: es
+
+:leveloffset: +1
+
+include::01.catechesi-tradendae-introduction.adoc[]
+include::02.catechesi-tradendae-part-1.adoc[]
+include::03.catechesi-tradendae-part-2.adoc[]
+include::04.catechesi-tradendae-part-3.adoc[]
+
+:leveloffset: -1

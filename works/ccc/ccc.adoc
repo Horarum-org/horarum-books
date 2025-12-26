@@ -1,0 +1,5 @@
+[[ccc]]
+= Catecismo de la Iglesia Católica
+
+== Traducciones
+xref:./ccc-es/ccc-es.adoc[Español]

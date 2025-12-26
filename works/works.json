@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bible",
+    "title": "Biblia",
+    "variants": [
+      "biblia-de-jerusalen"
+    ]
+  },
+  {
+    "id": "ccc",
+    "title": "Catecismo de la Iglesia Católica",
+    "variants": [
+      "ccc-es"
+    ]
+  },
+  {
+    "id": "catechesi-tradendae",
+    "title": "Catechesi Tradendae",
+    "variants": [
+      "catechesi-tradendae-es"
+    ]
+  }
+]

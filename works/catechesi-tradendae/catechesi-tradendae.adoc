@@ -1,0 +1,5 @@
+[[catechesi-tradendae]]
+= Catechesi Tradendae
+
+== Traducciones
+xref:./catechesi-tradendae-es/catechesi-tradendae-es.adoc[Español]
