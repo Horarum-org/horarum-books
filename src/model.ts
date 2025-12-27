@@ -23,4 +23,5 @@ export interface Variant {
   id: string;
   title: string;
   language: string;
+  version: string;
 }
