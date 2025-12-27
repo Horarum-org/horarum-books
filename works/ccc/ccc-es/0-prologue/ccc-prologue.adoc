@@ -16,7 +16,7 @@
 [[ccc-3]]
 ^3^ Quienes con la ayuda de Dios, han acogido el llamamiento de Cristo y han respondido libremente a ella, se sienten por su parte urgidos por el amor de Cristo a anunciar por todas partes en el mundo la Buena Nueva. Este tesoro recibido de los Apóstoles ha sido guardado fielmente por sus sucesores. Todos los fieles de Cristo son llamados a transmitirlo de generación en generación, anunciando la fe, viviéndola en la comunión fraterna y celebrándola en la liturgia y en la oración (xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-2-42[cf. Hch 2,42]).
 
-[[ccc-prologue.2]]
+[[ccc-prologue-2]]
 == II. Transmitir la fe: la catequesis
 
 [[ccc-4]]
@@ -40,7 +40,7 @@
 [[ccc-10]]
 ^10^ No es extraño, por ello, que, en el dinamismo del Concilio Vaticano II (que el Papa Pablo VI consideraba como el gran catecismo de los tiempos modernos), la catequesis de la Iglesia haya atraído de nuevo la atención. El Directorio general de la catequesis de 1971, las sesiones del Sínodo de los Obispos consagradas a la evangelización (1974) y a la catequesis (1977), las exhortaciones apostólicas correspondientes, Evangelii nuntiandi (1975) y Catechesi tradendae (1979), dan testimonio de ello. La sesión extraordinaria del Sínodo de los Obispos de 1985 pidió "que sea redactado un catecismo o compendio de toda la doctrina católica, tanto sobre la fe como sobre la moral" (Relación final II, B, a, 4). El Santo Padre, Juan Pablo II, hizo suyo este deseo emitido por el Sínodo de los Obispos reconociendo que "responde totalmente a una verdadera necesidad de la Iglesia universal y de las Iglesias particulares" (Discurso de clausura del Sínodo, asamblea extraordinaria, 7 de diciembre de 1985). El Papa dispuso todo lo necesario para que se realizara la petición de los padres sinodales.
 
-[[ccc-prologue.3]]
+[[ccc-prologue-3]]
 == III. Fin y destinatarios de este Catecismo
 
 [[ccc-11]]
@@ -49,37 +49,37 @@
 [[ccc-12]]
 ^12^ El presente catecismo está destinado principalmente a los responsables de la catequesis: en primer lugar a los Obispos, en cuanto doctores de la fe y pastores de la Iglesia. Les es ofrecido como instrumento para la realización de su tarea de enseñar al Pueblo de Dios. A través de los Obispos, se dirige a los redactores de catecismos, a los sacerdotes y a los catequistas. Será también de útil lectura para todos los demás fieles cristianos.
 
-[[ccc-prologue.4]]
+[[ccc-prologue-4]]
 == IV. La estructura del "Catecismo de la Iglesia Católica"
 
 [[ccc-13]]
 ^13^ El plan de este catecismo se inspira en la gran tradición de los catecismos, los cuales articulan la catequesis en torno a cuatro "pilares": la profesión de la fe bautismal (el Símbolo), los sacramentos de la fe, la vida de fe (los Mandamientos), la oración del creyente (el Padre Nuestro).
 
-[[ccc-prologue.4.1]]
+[[ccc-prologue-4-1]]
 === Primera parte: la profesión de la fe]
 
 [[ccc-14]]
 ^14^ Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (xref:../../../bible/biblia-de-jerusalen/2-new-testament/47-mathew.adoc#mathew-10-32[cf. Mt 10,32]; xref:../../../bible/biblia-de-jerusalen/2-new-testament/52-romans.adoc#romans-10-9[cf. Rom 10,9]). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (primera sección). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los "tres capítulos" de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (segunda sección).
 
-[[ccc-prologue.4.2]]
+[[ccc-prologue-4-2]]
 === Segunda parte: Los sacramentos de la fe
 
 [[ccc-15]]
 ^15^ La segunda parte del catecismo expone cómo la salvación de Dios, realizada una vez por todas por Cristo Jesús y por el Espíritu Santo, se hace presente en las acciones sagradas de la liturgia de la Iglesia (primera sección), particularmente en los siete sacramentos (segunda sección).
 
-[[ccc-prologue.4.3]]
+[[ccc-prologue-4-3]]
 === Tercera parte: La vida de fe
 
 [[ccc-16]]
 ^16^ La tercera parte del catecismo presenta el fin último del hombre, creado a imagen de Dios: la bienaventuranza, y los caminos para llegar a ella: mediante un obrar recto y libre, con la ayuda de la ley y de la gracia de Dios (primera sección); mediante un obrar que realiza el doble mandamiento de la caridad, desarrollado en los diez mandamientos de Dios (segunda sección).
 
-[[ccc-prologue.4.4]]
+[[ccc-prologue-4-4]]
 === Cuarta parte: La oración en la vida de la fe
 
 [[ccc-17]]
 ^17^ La última parte del catecismo trata del sentido y la importancia de la oración en la vida de los creyentes (primera sección). Se cierra con un breve comentario de las siete peticiones de la oración del Señor (segunda sección). En ellas, en efecto, encontramos la suma de los bienes que debemos esperar y que nuestro Padre celestial quiere concedernos.
 
-[[ccc-prologue.5]]
+[[ccc-prologue-5]]
 == V. Indicaciones prácticas para el uso de este Catecismo
 
 [[ccc-18]]
@@ -97,7 +97,7 @@
 [[ccc-22]]
 ^22^ Al final de cada unidad temática, una serie de textos breves resumen en fórmulas condensadas lo esencial de la enseñanza. Estos "resúmenes" tienen como finalidad ofrecer sugerencias para fórmulas sintéticas y memorizables en la catequesis de cada lugar.
 
-[[ccc-prologue.6]]
+[[ccc-prologue-6]]
 == VI. Las necesarias adaptaciones
 
 [[ccc-23]]

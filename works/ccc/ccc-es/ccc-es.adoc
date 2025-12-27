@@ -14,6 +14,16 @@ include::0-prologue/ccc-prologue.adoc[]
 [[ccc-part-1]]
 == Primera parte: Profesión de la fe
 
+[[ccc-26]]
+^26^ Cuando profesamos nuestra fe, comenzamos diciendo: "Creo" o "Creemos". Antes de exponer la fe de la Iglesia tal como es confesada en el Credo, celebrada en la Liturgia, vivida en la práctica de los mandamientos y en la oración, nos preguntamos qué significa "creer". La fe es la respuesta del hombre a Dios que se revela y se entrega a él, dando al mismo tiempo una luz sobreabundante al hombre que busca el sentido último de su vida. Por ello consideramos primeramente esta búsqueda del hombre (capítulo primero), a continuación la Revelación divina, por la cual Dios viene al encuentro del hombre (capítulo segundo), y finalmente la respuesta de la fe (capítulo tercero).
+
+:leveloffset: +2
+
+include::1-first-part/ccc-part-1-chapter-1.adoc[]
+include::1-first-part/ccc-part-1-chapter-2.adoc[]
+
+:leveloffset: -2
+
 [[ccc-part-2]]
 == Segunda parte: La celebración del misterio cristiano
 
