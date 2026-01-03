@@ -6,7 +6,7 @@
 :toclevels: 2
 :lang: es
 
-[[old.testament]]
+[[old-testament]]
 == Antiguo Testamento
 
 :leveloffset: +2
@@ -60,7 +60,7 @@ include::1-old-testament/46-malachi.adoc[]
 
 :leveloffset: -2
 
-[[new.testament]]
+[[new-testament]]
 == Nuevo Testamento
 
 :leveloffset: +2
