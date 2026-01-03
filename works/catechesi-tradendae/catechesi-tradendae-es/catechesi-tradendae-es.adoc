@@ -2,8 +2,9 @@
 = Catechesi Tradendae
 :toc: left
 :doctype: book
-:toclevels: 2
+:toclevels: 1
 :lang: es
+:docdate: 1979-10-16
 
 :leveloffset: +1
 
@@ -11,5 +12,12 @@ include::01.catechesi-tradendae-introduction.adoc[]
 include::02.catechesi-tradendae-part-1.adoc[]
 include::03.catechesi-tradendae-part-2.adoc[]
 include::04.catechesi-tradendae-part-3.adoc[]
+include::05.catechesi-tradendae-part-4.adoc[]
+include::06.catechesi-tradendae-part-5.adoc[]
+include::07.catechesi-tradendae-part-6.adoc[]
+include::08.catechesi-tradendae-part-7.adoc[]
+include::09.catechesi-tradendae-part-8.adoc[]
+include::10.catechesi-tradendae-part-9.adoc[]
+include::11.catechesi-tradendae-conclusion.adoc[]
 
 :leveloffset: -1
