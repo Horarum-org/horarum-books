@@ -1,0 +1,5 @@
+[[evangelii-nuntiandi]]
+= Evangelii Nutandi
+
+== Traducciones
+xref:./evangelii-nuntiandi-es/evangelii-nuntiandi-es.adoc[Español]

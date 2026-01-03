@@ -1,0 +1,21 @@
+[[evangelii-nuntiandi-es]]
+= Evangelii Nutandi
+:toc: left
+:doctype: book
+:toclevels: 1
+:lang: es
+:docdate: 1975-12-08
+
+:leveloffset: +1
+
+include::1.evangelii-nuntiandi-introduction.adoc[]
+include::2.evangelii-nuntiandi-part-1.adoc[]
+include::3.evangelii-nuntiandi-part-2.adoc[]
+include::4.evangelii-nuntiandi-part-3.adoc[]
+include::5.evangelii-nuntiandi-part-4.adoc[]
+include::6.evangelii-nuntiandi-part-5.adoc[]
+include::7.evangelii-nuntiandi-part-6.adoc[]
+include::8.evangelii-nuntiandi-part-7.adoc[]
+include::9.evangelii-nuntiandi-part-conclusion.adoc[]
+
+:leveloffset: -1
