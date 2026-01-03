@@ -1,3 +1,21 @@
+:fn-122: footnote:[Jn 14, 26.]
+:fn-123: footnote:[Jn 16, 13.]
+:fn-124: footnote:[In Ioannis Evangelium Tractatus, 97, 1: PL 35, 1877.]
+:fn-125: footnote:[Jn 15, 26-27]
+:fn-126: footnote:[Cf. Rom 8, 14-17; Gal 4, 6.]
+:fn-127: footnote:[Rom 8, 15.]
+:fn-128: footnote:[1 Co 12, 3.]
+:fn-129: footnote:[Cf. 1 Co 12, 4-11]
+:fn-130: footnote:[Ef 5, 18.]
+:fn-131: footnote:[Retractationum liber I, 23, 2: PL 32, 621.]
+:fn-132: footnote:[N. 75: AAS 68 (1976), p. 66.]
+:fn-133: footnote:[Cf. Lc 2, 52.]
+:fn-134: footnote:[Cf. Jn 1, 14; Heb 10, 5; S. Th. IIIª, Q. 12, a. 2; a. 3, ad 3.]
+:fn-135: footnote:[Cf. Lc 2, 51.]
+:fn-136: footnote:[Cf. Jn 6, 45.]
+:fn-137: footnote:[Cf. Sermo 25, 7: PL 46, 937-938.]
+:fn-138: footnote:[Mt 28, 19.]
+
 [[catechesi-tradendae-part-9]]
 = CONCLUSIÓN
 

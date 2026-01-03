@@ -1,3 +1,14 @@
+:fn-47: footnote:[S. Congregación para el Clero, Directorium Catechisticum Generale, nn. 17-35: AAS 64 (1972), pp. 110-118.]
+:fn-48: footnote:[Cf. nn. 17-24: AAS 68 (1976), pp. 17-22.]
+:fn-49: footnote:[Synodus Episcoporum: De catechesi hoc nostro tempore tradenda praesertim pueris atque iuvenibus; Ad Populum Dei Nuntius, n. 1: loc. cit., pp. 3 s.; cf. « L'Osservatore Romano » (30 octubre 1977), p. 3.]
+:fn-50: footnote:[Discurso de clausura del Sínodo (29 octubre 1977): AAS 69 (1977), p. 634.]
+:fn-51: footnote:[Ibid.]
+:fn-52: footnote:[Directorium Catechisticum Generale, nn. 40 y 46: AAS 64 (1972), pp. 121 y 124s.]
+:fn-53: footnote:[Decr. sobre el ministerio y la vida de los presbíteros Presbyterorum Ordinis, n 6: AAS 58 (1966), p. 999.]
+:fn-54: footnote:[Cf. Ordo initiationis christianae adultorum]
+:fn-55: footnote:[Ef 4, 13]
+:fn-56: footnote:[Cf. 1 Pe 3, 15]
+
 [[catechesi-tradendae-part-3]]
 = III - LA CATEQUESIS EN LA ACTIVIDAD PASTORAL Y MISIONERA DE LA IGLESIA
 
@@ -6,7 +17,7 @@
 
 ^18^ La catequesis no puede disociarse del conjunto de actividades pastorales y misionales de la Iglesia. Ella tiene, sin embargo, algo específico propio sobre lo que la IV Asamblea general del Sínodo de los Obispos, en sus trabajos preparatorios y a lo largo de su celebración, se ha interrogado a menudo. La cuestión interesa también a la opinión pública, dentro y fuera de la Iglesia.
 
-No es éste el lugar adecuado para dar una definición rigurosa y formal de la catequesis, suficientemente ilustrada en el «Directorio General de la Catequesis»[47]. Compete a los especialistas enriquecer cada vez más su concepto y su articulación.
+No es éste el lugar adecuado para dar una definición rigurosa y formal de la catequesis, suficientemente ilustrada en el «Directorio General de la Catequesis»{fn-47}. Compete a los especialistas enriquecer cada vez más su concepto y su articulación.
 
 Frente a la incertidumbre de la práctica, recordemos simplemente algunos puntos esenciales, por lo demás ya consolidados en los documentos de la Iglesia, para una comprensión exacta de la catequesis y sin los cuales se correría el riesgo de no llegar a comprender todo su significado y su alcance.
 
@@ -14,12 +25,12 @@ Globalmente, se puede considerar aquí la catequesis en cuanto educación de la 
 
 Recordemos ante todo que entre la catequesis y la evangelización no existe ni separación u oposición, ni identificación pura y simple, sino relaciones profundas de integración y de complemento recíproco.
 
-La Exhortación apostólica «Evangelii nuntiandi» del 8 de diciembre de 1975, sobre la evangelización en el mundo contemporáneo, subrayó con toda razón que la evangelización —cuya finalidad es anunciar la Buena Nueva a toda la humanidad para que viva de ella—, es una realidad rica, compleja y dinámica, que tiene elementos o, si se prefiere, momentos, esenciales y diferentes entre sí, que es preciso saber abarcar conjuntamente, en la unidad de un único movimiento[48]. La catequesis es uno de esos momentos —¡y cuán señalado!— en el proceso total de evangelización.
+La Exhortación apostólica «Evangelii nuntiandi» del 8 de diciembre de 1975, sobre la evangelización en el mundo contemporáneo, subrayó con toda razón que la evangelización —cuya finalidad es anunciar la Buena Nueva a toda la humanidad para que viva de ella—, es una realidad rica, compleja y dinámica, que tiene elementos o, si se prefiere, momentos, esenciales y diferentes entre sí, que es preciso saber abarcar conjuntamente, en la unidad de un único movimiento{fn-48}. La catequesis es uno de esos momentos —¡y cuán señalado!— en el proceso total de evangelización.
 
 [[catechesi-tradendae-19]]
 == Catequesis y primer anuncio del Evangelio
 
-^19^ La peculiaridad de la Catequesis, distinta del anuncio primero del Evangelio que ha suscitado la conversión, persigue el doble objetivo de hacer madurar la fe inicial y de educar al verdadero discípulo por medio de un conocimiento más profundo y sistemático de la persona y del mensaje de Nuestro Señor Jesucristo[49]. Pero en la práctica catequética, este orden ejemplar debe tener en cuenta el hecho de que a veces la primera evangelización no ha tenido lugar. Cierto número de niños bautizados en su infancia llega a la catequesis parroquial sin haber recibido alguna iniciación en la fe, y sin tener todavía adhesión alguna explícita y personal a Jesucristo, sino solamente la capacidad de creer puesta en ellos por el bautismo y la presencia del Espíritu Santo; y los prejuicios de un ambiente familiar poco cristiano o el espíritu positivista de la educación crean rápidamente algunas reticencias. A éstos es necesario añadir otros niños, no bautizados, para quienes sus padres no aceptan sino tardíamente la educación religiosa: por motivos prácticos, su etapa catecumenal se hará en buena parte durante la catequesis ordinaria. Además muchos preadolescentes y adolescentes, que han sido bautizados y que han recibido sistemáticamente una catequesis así como los sacramentos, titubean por largo tiempo en comprometer o no su vida con Jesucristo, cuando no se preocupan por esquivar la formación religiosa en nombre de su libertad. Finalmente los adultos mismos no están al reparo de tentaciones de duda o de abandono de la fe, a consecuencia de un ambiente notoriamente incrédulo. Es decir que la «catequesis» debe a menudo preocuparse, no sólo de alimentar y enseñar la fe, sino de suscitarla continuamente con la ayuda de la gracia, de abrir el corazón, de convertir, de preparar una adhesión global a Jesucristo en aquellos que están aún en el umbral de la fe. Esta preocupación inspira parcialmente el tono, el lenguaje y el método de la catequesis.
+^19^ La peculiaridad de la Catequesis, distinta del anuncio primero del Evangelio que ha suscitado la conversión, persigue el doble objetivo de hacer madurar la fe inicial y de educar al verdadero discípulo por medio de un conocimiento más profundo y sistemático de la persona y del mensaje de Nuestro Señor Jesucristo{fn-49}. Pero en la práctica catequética, este orden ejemplar debe tener en cuenta el hecho de que a veces la primera evangelización no ha tenido lugar. Cierto número de niños bautizados en su infancia llega a la catequesis parroquial sin haber recibido alguna iniciación en la fe, y sin tener todavía adhesión alguna explícita y personal a Jesucristo, sino solamente la capacidad de creer puesta en ellos por el bautismo y la presencia del Espíritu Santo; y los prejuicios de un ambiente familiar poco cristiano o el espíritu positivista de la educación crean rápidamente algunas reticencias. A éstos es necesario añadir otros niños, no bautizados, para quienes sus padres no aceptan sino tardíamente la educación religiosa: por motivos prácticos, su etapa catecumenal se hará en buena parte durante la catequesis ordinaria. Además muchos preadolescentes y adolescentes, que han sido bautizados y que han recibido sistemáticamente una catequesis así como los sacramentos, titubean por largo tiempo en comprometer o no su vida con Jesucristo, cuando no se preocupan por esquivar la formación religiosa en nombre de su libertad. Finalmente los adultos mismos no están al reparo de tentaciones de duda o de abandono de la fe, a consecuencia de un ambiente notoriamente incrédulo. Es decir que la «catequesis» debe a menudo preocuparse, no sólo de alimentar y enseñar la fe, sino de suscitarla continuamente con la ayuda de la gracia, de abrir el corazón, de convertir, de preparar una adhesión global a Jesucristo en aquellos que están aún en el umbral de la fe. Esta preocupación inspira parcialmente el tono, el lenguaje y el método de la catequesis.
 
 [[catechesi-tradendae-20]]
 == Finalidad específica de la catequesis
@@ -35,7 +46,7 @@ Si es verdad que ser cristiano significa decir «sí» a Jesucristo, recordemos 
 [[catechesi-tradendae-21]]
 == Necesidad de una catequesis sistemática
 
-^21^ En su discurso de clausura de la IV Asamblea general del Sínodo, el Papa Pablo VI se felicitaba al «advertir que todos han señalado la gran necesidad de una catequesis orgánica y bien ordenada, ya que esa reflexión vital sobre el misterio mismo de Cristo es lo que principalmente distingue a la Catequesis de todas las demás formas de presentar la Palabra de Dios»[50].
+^21^ En su discurso de clausura de la IV Asamblea general del Sínodo, el Papa Pablo VI se felicitaba al «advertir que todos han señalado la gran necesidad de una catequesis orgánica y bien ordenada, ya que esa reflexión vital sobre el misterio mismo de Cristo es lo que principalmente distingue a la Catequesis de todas las demás formas de presentar la Palabra de Dios»{fn-50}.
 
 Frente a las dificultades prácticas, hay que subrayar algunas características de esta enseñanza:
 
@@ -51,18 +62,18 @@ Sin olvidar la importancia de múltiples ocasiones de catequesis, relacionadas c
 
 ^22^ Es inútil insistir en la ortopraxis en detrimento de la ortodoxia: el cristianismo es inseparablemente la una y la otra. Unas convicciones firmes y reflexivas llevan a una acción valiente y segura; el esfuerzo por educar a los fieles a vivir hoy como discípulos de Cristo reclama y facilita el descubrimiento más profundo del Misterio de Cristo en la historia de la salvación.
 
-Es asimismo inútil querer abandonar el estudio serio y sistemático del mensaje de Cristo, en nombre de una atención metodológica a la experiencia vital. «Nadie puede llegar a la verdad íntegra solamente desde una simple experiencia privada, es decir, sin una conveniente exposición del mensaje de Cristo, que es el "Camino, la Verdad y la Vida" (Jn 14, 6)»[51].
+Es asimismo inútil querer abandonar el estudio serio y sistemático del mensaje de Cristo, en nombre de una atención metodológica a la experiencia vital. «Nadie puede llegar a la verdad íntegra solamente desde una simple experiencia privada, es decir, sin una conveniente exposición del mensaje de Cristo, que es el "Camino, la Verdad y la Vida" (Jn 14, 6)»{fn-51}.
 
-No hay que oponer igualmente una catequesis que arranque de la vida a una catequesis tradicional, doctrinal y sistemática[52]. La auténtica catequesis es siempre una iniciación ordenada y sistemática a la Revelación que Dios mismo ha hecho al hombre, en Jesucristo, revelación conservada en la memoria profunda de la Iglesia y en las Sagradas Escrituras y comunicada constantemente, mediante una «traditio» viva y activa, de generación en generación. Pero esta revelación no está aislada de la vida ni yuxtapuesta artificialmente a ella. Se refiere al sentido último de la existencia y la ilumina, ya para inspirarla, ya para juzgarla, a la luz del Evangelio.
+No hay que oponer igualmente una catequesis que arranque de la vida a una catequesis tradicional, doctrinal y sistemática{fn-52}. La auténtica catequesis es siempre una iniciación ordenada y sistemática a la Revelación que Dios mismo ha hecho al hombre, en Jesucristo, revelación conservada en la memoria profunda de la Iglesia y en las Sagradas Escrituras y comunicada constantemente, mediante una «traditio» viva y activa, de generación en generación. Pero esta revelación no está aislada de la vida ni yuxtapuesta artificialmente a ella. Se refiere al sentido último de la existencia y la ilumina, ya para inspirarla, ya para juzgarla, a la luz del Evangelio.
 
-Por eso podemos aplicar a los catequistas lo que el Concilio Vaticano II ha dicho especialmente de los sacerdotes: educadores del hombre y de la vida del hombre en la fe[53].
+Por eso podemos aplicar a los catequistas lo que el Concilio Vaticano II ha dicho especialmente de los sacerdotes: educadores del hombre y de la vida del hombre en la fe{fn-53}.
 
 [[catechesi-tradendae-23]]
 == Catequesis y sacramentos
 
 ^23^ La catequesis está intrínsecamente unida a toda la acción litúrgica y sacramental, porque es en los sacramentos y sobre todo en la eucaristía donde Jesucristo actúa en plenitud para la transformación de los hombres.
 
-En la Iglesia primitiva, catecumenado e iniciación a los sacramentos del bautismo y de la eucaristía, se identificaban. Aunque en este campo haya cambiado la práctica de la Iglesia, en los antiguos países cristianos, el catecumenado jamás ha sido abolido; conoce allí una renovación[54] y se practica abundantemente en las jóvenes Iglesias misioneras. De todos modos, la catequesis está siempre en relación con los sacramentos. Por una parte, una forma eminente de catequesis es la que prepara a los sacramentos, y toda catequesis conduce necesariamente a los sacramentos de la fe. Por otra parte, la práctica auténtica de los sacramentos tiene forzosamente un aspecto catequético. En otras palabras, la vida sacramental se empobrece y se convierte muy pronto en ritualismo vacío, si no se funda en un conocimiento serio del significado de los sacramentos y la catequesis se intelectualiza, si no cobra vida en la práctica sacramental.
+En la Iglesia primitiva, catecumenado e iniciación a los sacramentos del bautismo y de la eucaristía, se identificaban. Aunque en este campo haya cambiado la práctica de la Iglesia, en los antiguos países cristianos, el catecumenado jamás ha sido abolido; conoce allí una renovación{fn-54} y se practica abundantemente en las jóvenes Iglesias misioneras. De todos modos, la catequesis está siempre en relación con los sacramentos. Por una parte, una forma eminente de catequesis es la que prepara a los sacramentos, y toda catequesis conduce necesariamente a los sacramentos de la fe. Por otra parte, la práctica auténtica de los sacramentos tiene forzosamente un aspecto catequético. En otras palabras, la vida sacramental se empobrece y se convierte muy pronto en ritualismo vacío, si no se funda en un conocimiento serio del significado de los sacramentos y la catequesis se intelectualiza, si no cobra vida en la práctica sacramental.
 
 [[catechesi-tradendae-24]]
 == Catequesis y comunidad eclesial
@@ -78,4 +89,4 @@ La catequesis está abierta igualmente al dinamismo misionero. Si hace bien, los
 
 En la concepción que se acaba de exponer, la catequesis se ajusta al punto de vista totalmente pastoral desde el cual ha querido considerarla el Sínodo. Este sentido amplio de la catequesis no contradice, sino que incluye, desbordándolo, el sentido estricto al que por lo común se atienen las exposiciones didácticas: la simple enseñanza de las fórmulas que expresan la fe.
 
-En definitiva, la catequesis es tan necesaria para la madurez de la fe de los cristianos como para su testimonio en el mundo: ella quiere conducir a los cristianos «en la unidad de la fe y en el conocimiento del Hijo de Dios y a formar al hombre perfecto, maduro, que realice la plenitud de Cristo»[55]; también quiere que estén dispuestos a dar razón de su esperanza a todos los que les pidan una explicación[56].
+En definitiva, la catequesis es tan necesaria para la madurez de la fe de los cristianos como para su testimonio en el mundo: ella quiere conducir a los cristianos «en la unidad de la fe y en el conocimiento del Hijo de Dios y a formar al hombre perfecto, maduro, que realice la plenitud de Cristo»{fn-55}; también quiere que estén dispuestos a dar razón de su esperanza a todos los que les pidan una explicación{fn-56}.
