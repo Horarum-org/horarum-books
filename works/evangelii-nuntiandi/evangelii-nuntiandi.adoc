@@ -3,3 +3,5 @@
 
 == Traducciones
 xref:./evangelii-nuntiandi-es/evangelii-nuntiandi-es.adoc[Español]
+
+xref:./evangelii-nuntiandi-en/evangelii-nuntiandi-en.adoc[English]
