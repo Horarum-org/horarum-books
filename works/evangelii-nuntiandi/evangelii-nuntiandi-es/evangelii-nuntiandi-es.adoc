@@ -1,5 +1,5 @@
 [[evangelii-nuntiandi-es]]
-= Evangelii Nutandi
+= Evangelii Nuntiandi
 :toc: left
 :doctype: book
 :toclevels: 1

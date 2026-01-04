@@ -1,5 +1,5 @@
 [[evangelii-nuntiandi]]
-= Evangelii Nutandi
+= Evangelii Nuntiandi
 
 == Traducciones
 xref:./evangelii-nuntiandi-es/evangelii-nuntiandi-es.adoc[Español]
