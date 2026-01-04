@@ -1,4 +1,4 @@
-[[evangelii-nuntiandi-es]]
+[[evangelii-nuntiandi-en]]
 = Evangelii Nuntiandi
 :toc: left
 :doctype: book
