@@ -1,3 +1,5 @@
+:fn-135: footnote:[Flp. 1, 3-4. 7-8.]
+
 [[evangelii-nuntiandi-conclusion]]
 = CONCLUSIÓN
 
@@ -13,7 +15,7 @@ Que la luz del Año Santo, que ha brillado en las Iglesias particulares y en Rom
 
 82&#46; Estos son los deseos que nos complacemos en depositar en las manos y en el corazón de la Santísima Virgen, la Inmaculada, en este día especialmente dedicado a Ella y en el X aniversario de la clausura del Concilio Vaticano II. En la mañana de Pentecostés, Ella presidió con su oración el comienzo de la evangelización bajo el influjo del Espíritu Santo. Sea Ella la estrella de la evangelización siempre renovada que la Iglesia, dócil al mandato del Señor, debe promover y realizar, sobre todo en estos tiempos difíciles y llenos de esperanza.
 
-En el nombre de Cristo os bendecimos a vosotros, a vuestras comunidades, vuestras familias y vuestros seres queridos, haciendo nuestras las palabras de San Pablo a los Filipenses: "Siempre que me acuerdo de vosotros doy gracias a mi Dios; siempre, en todas mis oraciones, pidiendo con gozo por vosotros, a causa de vuestra comunión en el Evangelio desde el primer día hasta ahora. (...) os llevo en el corazón; y (...) en mi defensa y en la confirmación del Evangelio, sois todos vosotros participantes de mi gracia. Testigo me es Dios de cuánto os amo a todos en las entrañas de Cristo Jesús"[135].
+En el nombre de Cristo os bendecimos a vosotros, a vuestras comunidades, vuestras familias y vuestros seres queridos, haciendo nuestras las palabras de San Pablo a los Filipenses: "Siempre que me acuerdo de vosotros doy gracias a mi Dios; siempre, en todas mis oraciones, pidiendo con gozo por vosotros, a causa de vuestra comunión en el Evangelio desde el primer día hasta ahora. (...) os llevo en el corazón; y (...) en mi defensa y en la confirmación del Evangelio, sois todos vosotros participantes de mi gracia. Testigo me es Dios de cuánto os amo a todos en las entrañas de Cristo Jesús"{fn-135}.
 
 Dado en Roma, junto a San Pedro, en la solemnidad de la Inmaculada Concepción de la Santísima Virgen María, el día 8 de diciembre del año 1975, XIII de nuestro pontificado.
 

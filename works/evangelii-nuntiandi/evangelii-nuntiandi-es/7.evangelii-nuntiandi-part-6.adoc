@@ -1,16 +1,43 @@
+:fn-81: footnote:[Rom. 10, 15.]
+:fn-82: footnote:[Decl. Dignitatis humanae, 13: AAS 58 (1966), p. 939; cf. Const. dogm. Lumen gentium, 5: AAS 57 (1965), pp. 7-8; Decr. Ad gentes, I: AAS 58 (1966), p. 947.]
+:fn-83: footnote:[Cf. Decr. Ad gentes, 35: AAS 58 (1966), p. 983.]
+:fn-84: footnote:[S. Agustín, Enarrat, in Ps 44, 23: CCL XXXVIII, p. 510; cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 1: AAS 58 (1966), p. 947.]
+:fn-85: footnote:[S. Gregorio Magno, Homil. in Evangelia 19, 1: PL 76, 1154.]
+:fn-86: footnote:[Act 1, 8; cf. Didaché, 9, 1: Funk, Patres Apostolici, 1, 22.]
+:fn-87: footnote:[Mt. 28, 20.]
+:fn-88: footnote:[Cf. Mt. 13, 32.]
+:fn-89: footnote:[Cf. Mt. 13, 47.]
+:fn-90: footnote:[Cf. Jn. 21, 11.]
+:fn-91: footnote:[Cf. Jn. 10, 1-16.]
+:fn-92: footnote:[Cf. Conc. Ecum. Vat. II, Const. Sacrosanctum Concilium, 37-38: AAS 56 (1964), p. 110. Cf. también los libros litúrgicos y los demás documentos emanados posteriormente de la Santa Sede para llevar a cabo la reforma litúrgica preconizada por el mismo Concilio.]
+:fn-93: footnote:[Pablo VI, Discurso en la clausura de la III Asamblea General del Sínodo de los Obispos (23 octubre 1974): AAS 66 (1974), p. 636.]
+:fn-94: footnote:[Cf. Jn. 15, 16; Mc. 3, 13-19; Lc. 6, 13-16.]
+:fn-95: footnote:[Cf. Act. 21-22.]
+:fn-96: footnote:[Cf. Mc. 3, 14.]
+:fn-97: footnote:[Cf. Mc. 3, 15; Lc. 9, 2.]
+:fn-98: footnote:[Act. 4, 8: cf. 2, 14; 2, 12.]
+:fn-99: footnote:[Cf. S. León Magno, Sermo 69, 3; Sermo 70, 1-3; Sermo 94, 3; Sermo 95, 2: S. Ch. 200, pp. 50-52; 58-66; 258-260; 268.]
+:fn-100: footnote:[Cf. Conc. Ecum. Lugdunense I. Const. Ad apostolicae dignitatis: Conciliorum Oecumenicorum Decreta, Ed. Instituto per le Scienze Religiose, Bolonia 1973, p. 278; Conc. Ecum. Viennense, Const. Ad providam Christi, ed. cit., p. 343; Conc. Ecum. Lateranense V. Bula In apostolici culminis, ed. cit., p. 606; Bula Postquam ad universalis, ed. cit., p. 609; Const. Supernae dispositionis, ed. cit., p. 614; Const. Divina disponente clementia, ed. cit., p. 638.]
+:fn-101: footnote:[Decr. Ad gentes, 38: AAS 58 (1966), p. 985.]
+:fn-102: footnote:[Cf. Conc. Ecum. Vat. II, Const. dogm. Lumen gentium 22: AAS 57 (1965), p. 26.]
+:fn-103: footnote:[Cf. Conc. Ecum. Vat. II, Const. dogm. Lumen gentium, 10, 37: AAS 57 (1965), pp. 14, 43; Decr. Ad gentes, 39: AAS 58 (1966), p. 986; Decr. Presbyterorum ordinis, 2. 12, 13; AAS 58 (1966), pp. 992, 1010, 1011.]
+:fn-104: footnote:[Cf. 1 Tes. 2, 9.]
+:fn-105: footnote:[Cf. 1 Pe. 5, 4.]
+:fn-106: footnote:[Const. dogm. Lumen gentium, 11: AAS 57 91965), p. 16; Decr. Apostolicam actuositatem, 11: AAS 58 (1966), p. 848; S. Juan Crisóstomo, in Genesim Serm. VI, 2; VI, 1: PG 54, 607-608.]
+
 [[evangelii-nuntiandi-part-6]]
 = VI - AGENTES DE LA EVANGELIZACIÓN
 
 [[evangelii-nuntiandi-59]]
 == La Iglesia entera es misionera
 
-59&#46; Si hay hombres que proclaman en el mundo el Evangelio de salvación, lo hacen por mandato, en nombre y con la gracia de Cristo Salvador. "¿Cómo predicarán si no son enviados?"[81], escribía el que fue sin duda uno de los más grandes evangelizadores. Nadie puede hacerlo, sin haber sido enviado.
+59&#46; Si hay hombres que proclaman en el mundo el Evangelio de salvación, lo hacen por mandato, en nombre y con la gracia de Cristo Salvador. "¿Cómo predicarán si no son enviados?"{fn-81}, escribía el que fue sin duda uno de los más grandes evangelizadores. Nadie puede hacerlo, sin haber sido enviado.
 
 ¿Quién tiene, pues, la misión de evangelizar?
 
-El Concilio Vaticano II ha dado una respuesta clara: "Incumbe a la Iglesia por mandato divino ir por todo el mundo y anunciar el Evangelio a toda creatura"[82]. Y en otro texto afirma: "La Iglesia entera es misionera, la obra de evangelización es un deber fundamental del pueblo de Dios"[83].
+El Concilio Vaticano II ha dado una respuesta clara: "Incumbe a la Iglesia por mandato divino ir por todo el mundo y anunciar el Evangelio a toda creatura"{fn-82}. Y en otro texto afirma: "La Iglesia entera es misionera, la obra de evangelización es un deber fundamental del pueblo de Dios"{fn-83}.
 
-Hemos recordado anteriormente esta vinculación íntima entre la Iglesia y la evangelización. Cuando la Iglesia anuncia el reino de Dios y lo construye, ella se implanta en el corazón del mundo como signo e instrumento de ese reino que está ya presente y que viene. El Concilio ha recogido, porque son muy significativas, estas palabras de San Agustín sobre la acción misionera de los Doce: "predicando la palabra de verdad, engendraron las Iglesias"[84].
+Hemos recordado anteriormente esta vinculación íntima entre la Iglesia y la evangelización. Cuando la Iglesia anuncia el reino de Dios y lo construye, ella se implanta en el corazón del mundo como signo e instrumento de ese reino que está ya presente y que viene. El Concilio ha recogido, porque son muy significativas, estas palabras de San Agustín sobre la acción misionera de los Doce: "predicando la palabra de verdad, engendraron las Iglesias"{fn-84}.
 
 [[evangelii-nuntiandi-60]]
 == Un acto eclesial
@@ -28,9 +55,9 @@ La Iglesia es toda ella evangelizadora, como hemos subrayado. Esto significa que
 
 61&#46; Llegados a este punto de nuestra reflexión nos detenemos con vosotros, hermanos e hijos, sobre una cuestión particularmente importante en nuestros días.
 
-En su celebración litúrgica, en su testimonio ante los jueces y los verdugos, en sus textos apologéticos, los primeros cristianos manifestaban gustosamente su fe profunda en la Iglesia, indicándola como extendida por todo el universo. Tenían plena conciencia de pertenecer a una gran comunidad que ni el espacio ni el tiempo podían limitar: "Desde el justo Abel hasta el último elegido"[85], "hasta los extremos de la tierra"[86], "hasta la consumación del mundo"[87].
+En su celebración litúrgica, en su testimonio ante los jueces y los verdugos, en sus textos apologéticos, los primeros cristianos manifestaban gustosamente su fe profunda en la Iglesia, indicándola como extendida por todo el universo. Tenían plena conciencia de pertenecer a una gran comunidad que ni el espacio ni el tiempo podían limitar: "Desde el justo Abel hasta el último elegido"{fn-85}, "hasta los extremos de la tierra"{fn-86}, "hasta la consumación del mundo"{fn-87}.
 
-Así ha querido el Señor a su Iglesia: universal, árbol grande cuyas ramas dan cobijo a las aves del cielo[88], red que recoge toda clase de peces[89] o que Pedro saca cargada de 153 grandes peces[90], rebaño que un solo pastor conduce a los pastos[91]. Iglesia universal sin límites ni fronteras, salvo, por desgracia, las del corazón y del espíritu del hombre pecador.
+Así ha querido el Señor a su Iglesia: universal, árbol grande cuyas ramas dan cobijo a las aves del cielo{fn-88}, red que recoge toda clase de peces{fn-89} o que Pedro saca cargada de 153 grandes peces{fn-90}, rebaño que un solo pastor conduce a los pastos{fn-91}. Iglesia universal sin límites ni fronteras, salvo, por desgracia, las del corazón y del espíritu del hombre pecador.
 
 [[evangelii-nuntiandi-62]]
 == La perspectiva de la Iglesia particular
@@ -46,7 +73,7 @@ Por lo mismo, una Iglesia particular que se desgajara voluntariamente de la Igle
 
 63&#46; Las Iglesias particulares profundamente amalgamadas, no sólo con las personas, sino también con las aspiraciones, las riquezas y límites, las maneras de orar, de amar, de considerar la vida y el mundo que distinguen a tal o cual conjunto humano, tienen la función de asimilar lo esencial del mensaje evangélico, de trasvasarlo, sin la menor traición a su verdad esencial, al lenguaje que esos hombres comprenden, y, después de anunciarlo en ese mismo lenguaje.
 
-Dicho trasvase hay que hacerlo con el discernimiento, la seriedad, el respeto y la competencia que exige la materia, en el campo de las expresiones litúrgicas[92], de las catequesis, de la formulación teológica, de las estructuras eclesiales secundarias, de los ministerios. El lenguaje debe entenderse aquí no tanto a nivel semántico o literario cuanto al que podría llamarse antropológico y cultural.
+Dicho trasvase hay que hacerlo con el discernimiento, la seriedad, el respeto y la competencia que exige la materia, en el campo de las expresiones litúrgicas{fn-92}, de las catequesis, de la formulación teológica, de las estructuras eclesiales secundarias, de los ministerios. El lenguaje debe entenderse aquí no tanto a nivel semántico o literario cuanto al que podría llamarse antropológico y cultural.
 
 El problema es sin duda delicado. La evangelización pierde mucho de su fuerza y de su eficacia, si no toma en consideración al pueblo concreto al que se dirige, si no utiliza su "lengua", sus signos y símbolos, si no responde a las cuestiones que plantea, no llega a su vida concreta. Pero, por otra parte, la evangelización corre el riesgo de perder su alma y desvanecerse, si se vacía o desvirtúa su contenido, bajo pretexto de traducirlo; si queriendo adaptar una realidad universal a un espacio local, se sacrifica esta realidad y se destruye la unidad sin la cual no hay universalidad. Ahora bien, solamente una Iglesia que mantenga la conciencia de su universalidad y demuestre que es de hecho universal puede tener un mensaje capaz de ser entendido por encima de los límites regionales, en el mundo entero.
 
@@ -64,32 +91,32 @@ Cuanto más ligada está una Iglesia particular por vínculos sólidos a la Igle
 [[evangelii-nuntiandi-65]]
 == El inalterable depósito de la fe
 
-65&#46; Precisamente en este sentido quisimos pronunciar, en la clausura del Sínodo, una palabra clara y llena de paterno afecto, insistiendo sobre la función del Sucesor de Pedro como principio visible, viviente y dinámico de la unidad entre las Iglesias y, consiguientemente, de la universalidad de la única Iglesia[93]. Insistíamos también sobre la grave responsabilidad que nos incumbe, que compartimos con nuestros hermanos en el Episcopado, de guardar inalterable el contenido de la fe católica que el Señor confió a los Apóstoles: traducido en todos los lenguajes, revestido de símbolos propios en cada pueblo, explicitado por expresiones teológicas que tienen en cuenta medios culturales, sociales y también raciales diversos, debe seguir siendo el contenido de la fe católica tal cual el Magisterio eclesial lo ha recibido y lo transmite.
+65&#46; Precisamente en este sentido quisimos pronunciar, en la clausura del Sínodo, una palabra clara y llena de paterno afecto, insistiendo sobre la función del Sucesor de Pedro como principio visible, viviente y dinámico de la unidad entre las Iglesias y, consiguientemente, de la universalidad de la única Iglesia{fn-93}. Insistíamos también sobre la grave responsabilidad que nos incumbe, que compartimos con nuestros hermanos en el Episcopado, de guardar inalterable el contenido de la fe católica que el Señor confió a los Apóstoles: traducido en todos los lenguajes, revestido de símbolos propios en cada pueblo, explicitado por expresiones teológicas que tienen en cuenta medios culturales, sociales y también raciales diversos, debe seguir siendo el contenido de la fe católica tal cual el Magisterio eclesial lo ha recibido y lo transmite.
 
 [[evangelii-nuntiandi-66]]
 == Tareas diferenciadas
 
 66&#46; Toda la Iglesia está pues llamada a evangelizar y, sin embargo, en su seno tenemos que realizar diferentes tareas evangelizadoras. Esta diversidad de servicios en la unidad de la misma misión constituye la riqueza y la belleza de la evangelización. Recordemos estas tareas en pocas palabras.
 
-En primer lugar, séanos permitido señalar en las páginas del Evangelio la insistencia con la que el Señor confía a los Apóstoles la función de anunciar la Palabra. El los ha escogido[94], formado durante varios años de intimidad[95], constituido[96] y mandado[97] como testigos y maestros autorizados del mensaje de salvación. Y los Doce han enviado a su vez a sus sucesores que, en la línea apostólica, continúan predicando la Buena Nueva.
+En primer lugar, séanos permitido señalar en las páginas del Evangelio la insistencia con la que el Señor confía a los Apóstoles la función de anunciar la Palabra. El los ha escogido{fn-94}, formado durante varios años de intimidad{fn-95}, constituido{fn-96} y mandado{fn-97} como testigos y maestros autorizados del mensaje de salvación. Y los Doce han enviado a su vez a sus sucesores que, en la línea apostólica, continúan predicando la Buena Nueva.
 
 [[evangelii-nuntiandi-67]]
 == El Sucesor de Pedro
 
-67&#46; El Sucesor de Pedro, por voluntad de Cristo, está encargado del ministerio preeminente de enseñar la verdad revelada. El Nuevo Testamento presenta frecuentemente a Pedro "lleno del Espíritu Santo", tomando la palabra en nombre de todos[98]. Por eso mismo San León Magno habla de él como de aquel que ha merecido el primado del apostolado[99]. Por la misma razón la voz de la Iglesia presenta al Papa "en el culmen —in apice, in specula—, del apostolado"[100]. El Concilio Vaticano II ha querido subrayarlo, declarando que "el mandato de Cristo de predicar el Evangelio a toda criatura (cf. Mc 16, 15) se refiere ante todo e inmediatamente a los obispos con Pedro y bajo la guía de Pedro"[101].
+67&#46; El Sucesor de Pedro, por voluntad de Cristo, está encargado del ministerio preeminente de enseñar la verdad revelada. El Nuevo Testamento presenta frecuentemente a Pedro "lleno del Espíritu Santo", tomando la palabra en nombre de todos{fn-98}. Por eso mismo San León Magno habla de él como de aquel que ha merecido el primado del apostolado{fn-99}. Por la misma razón la voz de la Iglesia presenta al Papa "en el culmen —in apice, in specula—, del apostolado"{fn-100}. El Concilio Vaticano II ha querido subrayarlo, declarando que "el mandato de Cristo de predicar el Evangelio a toda criatura (cf. Mc 16, 15) se refiere ante todo e inmediatamente a los obispos con Pedro y bajo la guía de Pedro"{fn-101}.
 
-La potestad plena, suprema y universal[102] que Cristo ha confiado a su Vicario para el gobierno pastoral de su Iglesia, consiste por tanto especialmente en la actividad, que ejerce el Papa, de predicar y de hacer predicar la Buena Nueva de la salvación.
+La potestad plena, suprema y universal{fn-102} que Cristo ha confiado a su Vicario para el gobierno pastoral de su Iglesia, consiste por tanto especialmente en la actividad, que ejerce el Papa, de predicar y de hacer predicar la Buena Nueva de la salvación.
 
 [[evangelii-nuntiandi-68]]
 == Obispos y Sacerdotes
 
 68&#46; Unidos al Sucesor de Pedro, los obispos, sucesores de los Apóstoles, reciben en virtud de su ordenación episcopal, la autoridad para enseñar en la Iglesia la verdad revelada. Son los maestros de la fe.
 
-A los obispos están asociados en el ministerio de la evangelización, como responsables a título especial, los que por la ordenación sacerdotal obran en nombre de Cristo[103], en cuanto educadores del pueblo de Dios en la fe, predicadores, siendo además ministros de la Eucaristía y de los otros sacramentos.
+A los obispos están asociados en el ministerio de la evangelización, como responsables a título especial, los que por la ordenación sacerdotal obran en nombre de Cristo{fn-103}, en cuanto educadores del pueblo de Dios en la fe, predicadores, siendo además ministros de la Eucaristía y de los otros sacramentos.
 
-Todos nosotros, los Pastores, estamos pues invitados a tomar conciencia de este deber, más que cualquier otro miembro de la Iglesia. Lo que constituye la singularidad de nuestro servicio sacerdotal, lo que da unidad profunda a la infinidad de tareas que nos solicitan a lo largo de la jornada y de la vida, lo que confiere a nuestras actividades una nota específica, es precisamente esta finalidad presente en toda acción nuestra: "anunciar el Evangelio de Dios"[104].
+Todos nosotros, los Pastores, estamos pues invitados a tomar conciencia de este deber, más que cualquier otro miembro de la Iglesia. Lo que constituye la singularidad de nuestro servicio sacerdotal, lo que da unidad profunda a la infinidad de tareas que nos solicitan a lo largo de la jornada y de la vida, lo que confiere a nuestras actividades una nota específica, es precisamente esta finalidad presente en toda acción nuestra: "anunciar el Evangelio de Dios"{fn-104}.
 
-He ahí un rasgo de nuestra identidad, que ninguna duda debiera atacar, ni ninguna objeción eclipsar: en cuanto Pastores, hemos sido escogidos por la misericordia del Supremo Pastor[105], a pesar de nuestra insuficiencia, para proclamar con autoridad la Palabra de Dios; para reunir al pueblo de Dios que estaba disperso: para alimentar a este pueblo con los signos de la acción de Cristo que son los sacramentos; para ponerlo en el camino de la salvación; para mantenerlo en esa unidad de la que nosotros somos, a diferentes niveles, instrumentos activos y vivos; para animar sin cesar a esta comunidad reunida en torno a Cristo siguiendo la línea de su vocación más íntima. Y cuando, en la medida de nuestros límites humanos y secundando la gracia de Dios, cumplimos todo esto, realizamos una labor de evangelización: Nos, como Pastor de la Iglesia universal; nuestros hermanos los obispos, a la cabeza de las Iglesias locales; los sacerdotes y diáconos, unidos a sus obispos, de los que son colaboradores, por una comunión que tiene su fuente en el sacramento del orden y en la caridad de la Iglesia.
+He ahí un rasgo de nuestra identidad, que ninguna duda debiera atacar, ni ninguna objeción eclipsar: en cuanto Pastores, hemos sido escogidos por la misericordia del Supremo Pastor{fn-105}, a pesar de nuestra insuficiencia, para proclamar con autoridad la Palabra de Dios; para reunir al pueblo de Dios que estaba disperso: para alimentar a este pueblo con los signos de la acción de Cristo que son los sacramentos; para ponerlo en el camino de la salvación; para mantenerlo en esa unidad de la que nosotros somos, a diferentes niveles, instrumentos activos y vivos; para animar sin cesar a esta comunidad reunida en torno a Cristo siguiendo la línea de su vocación más íntima. Y cuando, en la medida de nuestros límites humanos y secundando la gracia de Dios, cumplimos todo esto, realizamos una labor de evangelización: Nos, como Pastor de la Iglesia universal; nuestros hermanos los obispos, a la cabeza de las Iglesias locales; los sacerdotes y diáconos, unidos a sus obispos, de los que son colaboradores, por una comunión que tiene su fuente en el sacramento del orden y en la caridad de la Iglesia.
 
 [[evangelii-nuntiandi-69]]
 == Los religiosos
@@ -110,7 +137,7 @@ Su tarea primera e inmediata no es la institución y el desarrollo de la comunid
 [[evangelii-nuntiandi-71]]
 == La familia
 
-71&#46; En el seno del apostolado evangelizador de los seglares, es imposible dejar de subrayar la acción evangelizadora de la familia. Ella ha merecido muy bien, en los diferentes momentos de la historia y en el Concilio Vaticano II, el hermoso nombre de "Iglesia doméstica"[106]. Esto significa que en cada familia cristiana deberían reflejarse los diversos aspectos de la Iglesia entera. Por otra parte, la familia, al igual que la Iglesia, debe ser un espacio donde el Evangelio es transmitido y desde donde éste se irradia.
+71&#46; En el seno del apostolado evangelizador de los seglares, es imposible dejar de subrayar la acción evangelizadora de la familia. Ella ha merecido muy bien, en los diferentes momentos de la historia y en el Concilio Vaticano II, el hermoso nombre de "Iglesia doméstica"{fn-106}. Esto significa que en cada familia cristiana deberían reflejarse los diversos aspectos de la Iglesia entera. Por otra parte, la familia, al igual que la Iglesia, debe ser un espacio donde el Evangelio es transmitido y desde donde éste se irradia.
 
 Dentro, pues, de una familia consciente de esta misión, todos los miembros de la misma evangelizan y son evangelizados. Los padres no sólo comunican a los hijos el Evangelio, sino que pueden a su vez recibir de ellos este mismo Evangelio profundamente vivido. También las familias formadas por un matrimonio mixto tienen el deber de anunciar a Cristo a los hijos en la plenitud de las implicaciones del bautismo común; tienen además la no fácil tarea de hacerse artífices de unidad.
 

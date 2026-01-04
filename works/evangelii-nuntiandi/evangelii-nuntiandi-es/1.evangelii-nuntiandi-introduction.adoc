@@ -1,3 +1,15 @@
+:fn-1: footnote:[Cf. Lc. 22, 32.]
+:fn-2: footnote:[Cf. 2 Cor. 11, 28.]
+:fn-3: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 1: AAS 58 (1966), p. 947.]
+:fn-4: footnote:[Cf. Ef. 4, 24; 2, 15; Col. 3, 10; Gál. 3, 27; Rom. 13, 14; 2 Cor. 5, 17.]
+:fn-5: footnote:[2 Cor. 5, 20.]
+:fn-6: footnote:[Cf. Pablo VI, Discurso en la clausura de la III Asamblea General del Sínodo de los Obispos (26 de octubre de 1974): AAS 66 (1974), pp. 634-635.]
+:fn-7: footnote:[Pablo VI, Discurso al Sacro Colegio Cardenalicio (22 de junio de 1973): AAS 65 (1973), p. 383.]
+:fn-8: footnote:[2 Cor. 11, 28.]
+:fn-9: footnote:[1 Tim. 5, 17.]
+:fn-10: footnote:[2 Tim. 2, 15.]
+:fn-11: footnote:[Cf. 1 Cor. 2, 5.]
+
 [[evangelii-nuntiandi-introduction]]
 = INTRODUCCIÓN
 
@@ -11,21 +23,21 @@ Salud y Bendición Apostólica
 
 1&#46; El esfuerzo orientado al anuncio del Evangelio a los hombres de nuestro tiempo, exaltados por la esperanza pero a la vez perturbados con frecuencia por el temor y la angustia, es sin duda alguna un servicio que se presenta a la comunidad cristiana e incluso a toda la humanidad.
 
-De ahí que el deber de confirmar a los hermanos, que hemos recibido del Señor al confiársenos la misión del Sucesor de Pedro [1], y que constituye para Nos un cuidado de cada día[2], un programa de vida y de acción, a la vez que un empeño fundamental de nuestro pontificado, ese deber, decimos, nos parece todavía más noble y necesario cuando se trata de alentar a nuestros hermanos en su tarea de evangelizadores, a fin de que en estos tiempos de incertidumbre y malestar la cumplan con creciente amor, celo y alegría.
+De ahí que el deber de confirmar a los hermanos, que hemos recibido del Señor al confiársenos la misión del Sucesor de Pedro {fn-1}, y que constituye para Nos un cuidado de cada día{fn-2}, un programa de vida y de acción, a la vez que un empeño fundamental de nuestro pontificado, ese deber, decimos, nos parece todavía más noble y necesario cuando se trata de alentar a nuestros hermanos en su tarea de evangelizadores, a fin de que en estos tiempos de incertidumbre y malestar la cumplan con creciente amor, celo y alegría.
 
 [[evangelii-nuntiandi-2]]
 == Conmemorando tres acontecimientos
 
-2&#46; Esto es lo que deseamos hacer ahora, al final del Año Santo, durante el cual la Iglesia se ha esforzado en anunciar el Evangelio a todos los hombres[3], sin embargo otro objetivo que el de cumplir su deber de mensajera de la Buena Nueva de Jesucristo proclamada a partir de dos consignas fundamentales: "vestíos del hombre nuevo"[4] y "reconciliaos con Dios"[5].
+2&#46; Esto es lo que deseamos hacer ahora, al final del Año Santo, durante el cual la Iglesia se ha esforzado en anunciar el Evangelio a todos los hombres{fn-3}, sin embargo otro objetivo que el de cumplir su deber de mensajera de la Buena Nueva de Jesucristo proclamada a partir de dos consignas fundamentales: "vestíos del hombre nuevo"{fn-4} y "reconciliaos con Dios"{fn-5}.
 
 Tales son nuestros propósitos en este décimo aniversario de la clausura del Concilio Vaticano II, cuyos objetivos se resumen, en definitiva, en uno solo: hacer a la Iglesia del siglo XX cada vez más apta para anunciar el Evangelio a la humanidad del siglo XX.
 
-Nos queremos hacer esto un año después de la III Asamblea General del Sínodo de los Obispos —consagrada, como es bien sabido, a la evangelización—; tanto más cuanto que esto nos lo han pedido los mismos padres sinodales. En efecto, al final de aquella memorable Asamblea, decidieron ellos confiar al Pastor de la Iglesia universal, con gran confianza y sencillez, el fruto de sus trabajos, declarando que esperaban del Papa un impulso nuevo, capaz de crear tiempos nuevos de evangelización[6] en una Iglesia todavía más arraigada en la fuerza y poder perennes de Pentecostés.
+Nos queremos hacer esto un año después de la III Asamblea General del Sínodo de los Obispos —consagrada, como es bien sabido, a la evangelización—; tanto más cuanto que esto nos lo han pedido los mismos padres sinodales. En efecto, al final de aquella memorable Asamblea, decidieron ellos confiar al Pastor de la Iglesia universal, con gran confianza y sencillez, el fruto de sus trabajos, declarando que esperaban del Papa un impulso nuevo, capaz de crear tiempos nuevos de evangelización{fn-6} en una Iglesia todavía más arraigada en la fuerza y poder perennes de Pentecostés.
 
 [[evangelii-nuntiandi-3]]
 == Tema frecuente de nuestro pontificado
 
-3&#46; En diversas ocasiones, ya antes del Sínodo, Nos pusimos de relieve la importancia de este tema de la evangelización. "Las condiciones de la sociedad —decíamos al Sacro Colegio Cardenalicio del 22 de junio de 1973— nos obligan, por tanto, a revisar métodos, a buscar por todos los medios el modo de llevar al hombre moderno el mensaje cristiano, en el cual únicamente podrá hallar la respuesta a sus interrogantes y la fuerza para su empeño de solidaridad humana"[7]. Y añadíamos que, para dar una respuesta válida a las exigencias del Concilio que nos están acuciando, necesitamos absolutamente ponernos en contacto con el patrimonio de fe que la Iglesia tiene el deber de preservar en toda su pureza, y a la vez el deber de presentarlo a los hombres de nuestro tiempo, con los medios a nuestro alcance, de una manera comprensible y persuasiva.
+3&#46; En diversas ocasiones, ya antes del Sínodo, Nos pusimos de relieve la importancia de este tema de la evangelización. "Las condiciones de la sociedad —decíamos al Sacro Colegio Cardenalicio del 22 de junio de 1973— nos obligan, por tanto, a revisar métodos, a buscar por todos los medios el modo de llevar al hombre moderno el mensaje cristiano, en el cual únicamente podrá hallar la respuesta a sus interrogantes y la fuerza para su empeño de solidaridad humana"{fn-7}. Y añadíamos que, para dar una respuesta válida a las exigencias del Concilio que nos están acuciando, necesitamos absolutamente ponernos en contacto con el patrimonio de fe que la Iglesia tiene el deber de preservar en toda su pureza, y a la vez el deber de presentarlo a los hombres de nuestro tiempo, con los medios a nuestro alcance, de una manera comprensible y persuasiva.
 
 [[evangelii-nuntiandi-4]]
 == En la línea del Sínodo de 1974
@@ -43,6 +55,6 @@ Estas preguntas desarrollan, en el fondo, la cuestión fundamental que la Iglesi
 
 5&#46; Todos vemos la necesidad urgente de dar a tal pregunta una respuesta, leal, humilde, valiente, y de obrar en consecuencia.
 
-En nuestra "preocupación por todas las Iglesias"[8], Nos quisiéramos ayudar a nuestros hermanos e hijos a responder a estas preguntas. Ojalá que nuestras palabras, que quisieran ser, partiendo de las riquezas del Sínodo, una reflexión acerca de la evangelización, puedan invitar a la misma reflexión a todo el pueblo de Dios congregado en la Iglesia, y servir de renovado aliento a todos, especialmente a quienes "trabajan en la predicación y en la enseñanza" [9], para que cada uno de ellos sepa distribuir "rectamente la palabra de la verdad"[10], se dedique a la predicación del Evangelio y desempeñe su ministerio con toda perfección.
+En nuestra "preocupación por todas las Iglesias"{fn-8}, Nos quisiéramos ayudar a nuestros hermanos e hijos a responder a estas preguntas. Ojalá que nuestras palabras, que quisieran ser, partiendo de las riquezas del Sínodo, una reflexión acerca de la evangelización, puedan invitar a la misma reflexión a todo el pueblo de Dios congregado en la Iglesia, y servir de renovado aliento a todos, especialmente a quienes "trabajan en la predicación y en la enseñanza" {fn-9}, para que cada uno de ellos sepa distribuir "rectamente la palabra de la verdad"{fn-10}, se dedique a la predicación del Evangelio y desempeñe su ministerio con toda perfección.
 
-Una exhortación en este sentido nos ha parecido de importancia capital, ya que la presentación del mensaje evangélico no constituye para la Iglesia algo de orden facultativo: está de por medio el deber que le incumbe, por mandato del Señor, con vista a que los hombres crean y se salven. Sí, este mensaje es necesario. Es único. De ningún modo podría ser reemplazado. No admite indiferencia, ni sincretismo, ni acomodos. Representa la belleza de la Revelación. Lleva consigo una sabiduría que no es de este mundo. Es capaz de suscitar por sí mismo la fe, una fe que tiene su fundamento en la potencia de Dios[11]. Es la Verdad. Merece que el apóstol le dedique todo su tiempo, todas sus energías y que, si es necesario, le consagre su propia vida.
+Una exhortación en este sentido nos ha parecido de importancia capital, ya que la presentación del mensaje evangélico no constituye para la Iglesia algo de orden facultativo: está de por medio el deber que le incumbe, por mandato del Señor, con vista a que los hombres crean y se salven. Sí, este mensaje es necesario. Es único. De ningún modo podría ser reemplazado. No admite indiferencia, ni sincretismo, ni acomodos. Representa la belleza de la Revelación. Lleva consigo una sabiduría que no es de este mundo. Es capaz de suscitar por sí mismo la fe, una fe que tiene su fundamento en la potencia de Dios{fn-11}. Es la Verdad. Merece que el apóstol le dedique todo su tiempo, todas sus energías y que, si es necesario, le consagre su propia vida.
