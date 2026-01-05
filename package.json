@@ -13,6 +13,7 @@
   "packageManager": "pnpm@10.26.2",
   "dependencies": {
     "asciidoctor": "^3.0.4",
+    "better-sqlite3": "^12.5.0",
     "reflect-metadata": "^0.2.2",
     "sqlite3": "^5.1.7",
     "webp-converter": "^2.3.3"
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.18.0",
+    "@types/better-sqlite3": "^7.6.13",
     "@types/jest": "^30.0.0",
     "@types/node": "^22.10.7",
     "@types/supertest": "^6.0.2",
