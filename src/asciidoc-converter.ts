@@ -90,7 +90,7 @@ export class SqlConverter implements Converter {
 
     const variant: Variant = {
       id: this.variantId,
-      title: decodeEntities(doc.getTitle() as string) as string,
+      title: doc.getTitle() as string,
       workId: this.workId,
       language: doc.getAttribute('lang') as string,
       version: getVersion(this.workId, this.variantId),
@@ -110,9 +110,7 @@ export class SqlConverter implements Converter {
           title: block.getTitle(),
         },
         content: JSON.stringify(
-          decodeEntities(
-            block.applySubstitutions(block.getSource(), ['attributes']),
-          ),
+          block.applySubstitutions(block.getSource(), ['attributes']),
         ),
       },
       this.db,
@@ -137,9 +135,7 @@ export class SqlConverter implements Converter {
           list
             .getItems()
             .map((item) =>
-              decodeEntities(
-                item.applySubstitutions(item.getText(), ['attributes']),
-              ),
+              item.applySubstitutions(item.getText(), ['attributes']),
             ),
         ),
       },
@@ -150,7 +146,7 @@ export class SqlConverter implements Converter {
   }
 
   private convertBlock(block: Block) {
-    const title = decodeEntities(block.getTitle() as string) as string;
+    const title = block.getTitle() as string;
     const rowId = insertNode(
       {
         name: block.getNodeName(),
@@ -174,25 +170,4 @@ export class SqlConverter implements Converter {
       insertNodeId(node.getId(), rowId, this.db);
     }
   }
-}
-
-function decodeEntities(str: string | string[]): string | string[] {
-  if (Array.isArray(str)) {
-    return str.map((s) => decodeEntities(s) as string);
-  }
-
-  if (!str) return '';
-  return str
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&#46;/g, '.') // Dot
-    .replace(/&#8217;/g, '’') // Smart quote
-    .replace(/&#8230;/g, '…') // Ellipsis
-    .replace(/&#8203;/g, '') // Zero width space
-    .replace(/&#8220;/g, '“') // Left double quote
-    .replace(/&#8221;/g, '”') // Right double quote
-    .replace(/<[^>]*>?/gm, ''); // OPTIONAL: Strip HTML tags (like <em>, <b>) if you want PURE text
 }
