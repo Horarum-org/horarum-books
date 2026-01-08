@@ -1,3 +1,6 @@
+[[catechesi-tradendae-part-9]]
+= CONCLUSIÓN
+
 :fn-122: footnote:[Jn 14, 26.]
 :fn-123: footnote:[Jn 16, 13.]
 :fn-124: footnote:[In Ioannis Evangelium Tractatus, 97, 1: PL 35, 1877.]
@@ -15,9 +18,6 @@
 :fn-136: footnote:[Cf. Jn 6, 45.]
 :fn-137: footnote:[Cf. Sermo 25, 7: PL 46, 937-938.]
 :fn-138: footnote:[Mt 28, 19.]
-
-[[catechesi-tradendae-part-9]]
-= CONCLUSIÓN
 
 [[catechesi-tradendae-72]]
 == El Espíritu Santo, Maestro interior

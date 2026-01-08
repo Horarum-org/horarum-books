@@ -1,13 +1,4 @@
-import {
-  AbstractNode,
-  Document,
-  Section,
-  Block,
-  List,
-  ListItem,
-  Converter,
-  Asciidoctor as AsciidoctorType,
-} from 'asciidoctor';
+import { AbstractNode, Document, Block, List, Converter } from 'asciidoctor';
 import {
   closeDb,
   initDb,
@@ -17,7 +8,6 @@ import {
 } from './db-utils';
 import { Database } from 'better-sqlite3';
 import fs from 'fs';
-import { parseAsciiDocFile } from './asciidoctor-utils';
 import { Variant } from './model';
 import { getVersion } from './version-utils';
 
@@ -27,14 +17,10 @@ import { getVersion } from './version-utils';
 export class SqlConverter implements Converter {
   private variantId: string;
   private workId: string;
-  private out: string[];
-  private nodeIdCounter: number;
   public db: Database;
   private parentRowIdStack: number[];
 
   constructor(variantPath: string) {
-    this.out = [];
-    this.nodeIdCounter = 1;
     this.parentRowIdStack = [];
 
     const [workid, variantId] = variantPath.split('/');
@@ -115,25 +101,6 @@ export class SqlConverter implements Converter {
     closeDb(this.db);
   }
 
-  private convertSection(section: Section) {
-    const rowId = insertNode(
-      {
-        name: section.getNodeName(),
-        parentRowId: this.parentRowIdStack[this.parentRowIdStack.length - 1],
-        attributes: {
-          title: decodeEntities(section.getTitle() as string) as string,
-        },
-      },
-      this.db,
-    );
-
-    this.insertNodeId(section, rowId);
-
-    this.parentRowIdStack.push(rowId);
-    section.getContent();
-    this.parentRowIdStack.pop();
-  }
-
   private convertParagraph(block: Block) {
     const rowId = insertNode(
       {
@@ -199,25 +166,6 @@ export class SqlConverter implements Converter {
 
     this.parentRowIdStack.push(rowId);
     block.getContent();
-    this.parentRowIdStack.pop();
-  }
-
-  private convertPreamble(preamble: Block) {
-    const rowId = insertNode(
-      {
-        name: preamble.getNodeName(),
-        parentRowId: this.parentRowIdStack[this.parentRowIdStack.length - 1],
-        attributes: {
-          title: preamble.getTitle(),
-        },
-      },
-      this.db,
-    );
-
-    this.insertNodeId(preamble, rowId);
-
-    this.parentRowIdStack.push(rowId);
-    preamble.getContent();
     this.parentRowIdStack.pop();
   }
 

@@ -1,3 +1,6 @@
+[[catechesi-tradendae-introduction]]
+= INTRODUCCIÓN
+
 :fn-1: footnote:[Cf. Mt 28, 19 s.]
 :fn-2: footnote:[Cf. 1 Jn 1, 1.]
 :fn-3: footnote:[Cf. Jn 20, 31.]
@@ -6,9 +9,6 @@
 :fn-6: footnote:[Se sabe que, según el Motu proprio Apostolica Sollicitudo del 15 septiembre 1965 (AAS 57 [1965], pp. 775-780), el Sínodo de los Obispos puede reunirse en Asamblea general, en Asamblea extraordinaria o en Asamblea especial. En la presente Exhortación Apostólica, las palabras «Sínodo» o «Padres Sinodales», o «Aula Sinodal», se referirán siempre, a no ser que se diga lo contrario, a la IV Asamblea general del Sínodo de los Obispos, tenida en Roma en octubre de 1977, sobre la catequesis.]
 :fn-7: footnote:[Cf. Synodus Episcoporum: De catechesi hoc nostro tempore tradenda praesertim pueris atque iuvenibus, Ad Populum Dei Nuntius, e Civitate Vaticana, 28.X.1977; cf. « L'Osservatore Romano » (30 octubre 1977), pp. 3-4.]
 :fn-8: footnote:[Cf. AAS 69 (1977), p. 633.]
-
-[[catechesi-tradendae-introduction]]
-= INTRODUCCIÓN
 
 [[catechesi-tradendae-1]]
 == La última consigna de Cristo
