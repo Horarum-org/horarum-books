@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "seed": "ts-node src/seed-sqlite.ts evangelii-nuntiandi/evangelii-nuntiandi-es",
+    "seed": "ts-node src/seed-sqlite.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
