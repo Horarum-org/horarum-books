@@ -1,0 +1,22 @@
+[[jerusalem-bible]]
+= The Jerusalem Bible
+:toc: left
+:doctype: book
+:toclevels: 2
+:lang: en
+
+[[old-testament]]
+== Old Testament
+
+:leveloffset: +2
+
+include::1-old-testament/01-genesis.adoc[]
+
+:leveloffset: -2
+
+[[new-testament]]
+== New Testament
+
+:leveloffset: +2
+
+:leveloffset: -2
