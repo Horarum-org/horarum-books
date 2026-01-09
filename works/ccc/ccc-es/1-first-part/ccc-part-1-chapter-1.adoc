@@ -23,7 +23,7 @@ ____
 --
 
 [[ccc-29]]
-^29^ Pero esta "unión íntima y vital con Dios" (GS 19,1) puede ser olvidada, desconocida e incluso rechazada explícitamente por el hombre. Tales actitudes pueden tener orígenes muy diversos (cf. GS 19-21): la rebelión contra el mal en el mundo, la ignorancia o la indiferencia religiosas, los afanes del mundo y de las riquezas (xref:../../../bible/biblia-de-jerusalen/2-new-testament/47-mathew.adoc#mathew-13-22[cf. Mt 13,22]), el mal ejemplo de los creyentes, las corrientes del pensamiento hostiles a la religión, y finalmente esa actitud del hombre pecador que, por miedo, se oculta de Dios ([to=genesis-3-10]#xref:../../../bible/biblia-de-jerusalen/1-old-testament/01-genesis.adoc#genesis-3-8[cf. Gn 3,8-10]#) y huye ante su llamada (xref:../../../bible/biblia-de-jerusalen/1-old-testament/39-jonah.adoc#jonah-1-3[cf. Jon 1,3]).
+^29^ Pero esta "unión íntima y vital con Dios" (GS 19,1) puede ser olvidada, desconocida e incluso rechazada explícitamente por el hombre. Tales actitudes pueden tener orígenes muy diversos (cf. GS 19-21): la rebelión contra el mal en el mundo, la ignorancia o la indiferencia religiosas, los afanes del mundo y de las riquezas (xref:../../../bible/biblia-de-jerusalen/2-new-testament/47-mathew.adoc#mathew-13-22[cf. Mt 13,22]), el mal ejemplo de los creyentes, las corrientes del pensamiento hostiles a la religión, y finalmente esa actitud del hombre pecador que, por miedo, se oculta de Dios (xref:../../../bible/biblia-de-jerusalen/1-old-testament/01-genesis.adoc?to=genesis-3-10#genesis-3-8[cf. Gn 3,8-10]) y huye ante su llamada (xref:../../../bible/biblia-de-jerusalen/1-old-testament/39-jonah.adoc#jonah-1-3[cf. Jon 1,3]).
 
 [[ccc-30]]
 --
@@ -49,7 +49,7 @@ Estas "vías" para acercarse a Dios tienen como punto de partida la creación: e
 ^32^ El mundo: A partir del movimiento y del devenir, de la contingencia, del orden y de la belleza del mundo se puede conocer a Dios como origen y fin del universo.
 
 ____
-San Pablo afirma refiriéndose a los paganos: "Lo que de Dios se puede conocer, está en ellos manifiesto: Dios se lo manifestó. Porque lo invisible de Dios, desde la creación del mundo se deja ver a la inteligencia a través de sus obras: su poder eterno y su divinidad" ([to=romans-1-19]#xref:../../../bible/biblia-de-jerusalen/2-new-testament/52-romans.adoc#romans-1-19[Rm 1,19-20]#; [to=acts-14-17]#xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-14-15[cf. Hch 14,15-17]#; [to=acts-17-28]#xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-17-27[17,27-28]#; [to=wisdom-13-9]#xref:../../../bible/biblia-de-jerusalen/1-old-testament/27-wisdom.adoc#wisdom-13-1[Sb 13,1-9]#).
+San Pablo afirma refiriéndose a los paganos: "Lo que de Dios se puede conocer, está en ellos manifiesto: Dios se lo manifestó. Porque lo invisible de Dios, desde la creación del mundo se deja ver a la inteligencia a través de sus obras: su poder eterno y su divinidad" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/52-romans.adoc?to=romans-1-20#romans-1-19[Rm 1,19-20]; xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc?to=acts-14-17#acts-14-15[cf. Hch 14,15-17]; xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc?to=acts-17-28#acts-17-27[17,27-28]; xref:../../../bible/biblia-de-jerusalen/1-old-testament/27-wisdom.adoc?to=wisdom-13-9#wisdom-13-1[Sb 13,1-9]).
 ____
 
 ____

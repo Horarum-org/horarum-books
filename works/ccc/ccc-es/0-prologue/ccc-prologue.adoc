@@ -1,19 +1,8 @@
 [[ccc-prologue]]
 = Prólogo
 
-:fn-1: footnote:[Jn 17,3]
-:fn-2: footnote:[1Tm 2,3-4]
-:fn-3: footnote:[Hch 4,12]
-:fn-4: footnote:[Mt 28,19-20]
-:fn-5: footnote:[Mc 16,20]
-:fn-6: footnote:[cf. Hch 2,42]
-:fn-7: footnote:[cf. Juan Pablo II, Catechesi tradendae [CT\] 1]
-:fn-8: footnote:[CT 18]
-:fn-9: footnote:[CT 13]
-:fn-10: footnote:[cf. Mt 10,32 cf. Rom 10,9]
-
 ____
-"PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo"{fn-1}. "Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad"{fn-2}. "No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos"{fn-3}, sino el nombre de Jesús.
+"PADRE, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/50-john.adoc#john-17-3[Jn 17,3]). "Dios, nuestro Salvador... quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/61-first-timothy.adoc#first-timothy-2-3[1Tm 2,3-4]). "No hay bajo el cielo otro nombre dado a los hombres por el que nosotros debamos salvarnos" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-4-12[Hch 4,12]), sino el nombre de Jesús.
 ____
 
 [[ccc-prologue-1]]
@@ -23,25 +12,25 @@ ____
 ^1^ Dios, infinitamente perfecto y bienaventurado en sí mismo, en un designio de pura bondad ha creado libremente al hombre para hacerle partícipe de su vida bienaventurada. Por eso, en todo tiempo y en todo lugar, se hace cercano del hombre: le llama y le ayuda a buscarle, a conocerle y a amarle con todas sus fuerzas. Convoca a todos los hombres, que el pecado dispersó, a la unidad de su familia, la Iglesia. Para lograrlo, llegada la plenitud de los tiempos, envió a su Hijo como Redentor y Salvador. En Él y por Él, llama a los hombres a ser, en el Espíritu Santo, sus hijos de adopción, y por tanto los herederos de su vida bienaventurada.
 
 [[ccc-2]]
-^2^ Para que esta llamada resonara en toda la tierra, Cristo envió a los apóstoles que había escogido, dándoles el mandato de anunciar el Evangelio: "Id, pues, y haced discípulos a todas las gentes bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo, y enseñándoles a guardar todo lo que yo os he mandado. Y sabed que yo estoy con vosotros todos los días hasta el fin del mundo"{fn-4}. Fortalecidos con esta misión, los apóstoles "salieron a predicar por todas partes, colaborando el Señor con ellos y confirmando la Palabra con las señales que la acompañaban"{fn-5}.
+^2^ Para que esta llamada resonara en toda la tierra, Cristo envió a los apóstoles que había escogido, dándoles el mandato de anunciar el Evangelio: "Id, pues, y haced discípulos a todas las gentes bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo, y enseñándoles a guardar todo lo que yo os he mandado. Y sabed que yo estoy con vosotros todos los días hasta el fin del mundo" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/47-mathew.adoc?to=mathew-28-20#mathew-28-19[Mt 28,19-20]). Fortalecidos con esta misión, los apóstoles "salieron a predicar por todas partes, colaborando el Señor con ellos y confirmando la Palabra con las señales que la acompañaban" (xref:../../../bible/biblia-de-jerusalen/2-new-testament/48-mark.adoc#mark-16-20[Mc 16,20]).
 
 [[ccc-3]]
-^3^ Quienes con la ayuda de Dios, han acogido el llamamiento de Cristo y han respondido libremente a ella, se sienten por su parte urgidos por el amor de Cristo a anunciar por todas partes en el mundo la Buena Nueva. Este tesoro recibido de los Apóstoles ha sido guardado fielmente por sus sucesores. Todos los fieles de Cristo son llamados a transmitirlo de generación en generación, anunciando la fe, viviéndola en la comunión fraterna y celebrándola en la liturgia y en la oración{fn-6}.
+^3^ Quienes con la ayuda de Dios, han acogido el llamamiento de Cristo y han respondido libremente a ella, se sienten por su parte urgidos por el amor de Cristo a anunciar por todas partes en el mundo la Buena Nueva. Este tesoro recibido de los Apóstoles ha sido guardado fielmente por sus sucesores. Todos los fieles de Cristo son llamados a transmitirlo de generación en generación, anunciando la fe, viviéndola en la comunión fraterna y celebrándola en la liturgia y en la oración (xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-2-42[cf. Hch 2,42]).
 
 [[ccc-prologue-2]]
 == II. Transmitir la fe: la catequesis
 
 [[ccc-4]]
-^4^ Muy pronto se llamó catequesis al conjunto de los esfuerzos realizados en la Iglesia para hacer discípulos, para ayudar a los hombres a creer que Jesús es el Hijo de Dios a fin de que,creyendo ésto, tengan la vida en su nombre, y para educarlos e instruirlos en esta vida y construir así el Cuerpo de Cristo{fn-7}.
+^4^ Muy pronto se llamó catequesis al conjunto de los esfuerzos realizados en la Iglesia para hacer discípulos, para ayudar a los hombres a creer que Jesús es el Hijo de Dios a fin de que,creyendo ésto, tengan la vida en su nombre, y para educarlos e instruirlos en esta vida y construir así el Cuerpo de Cristo (xref:../../../catechesi-tradendae/catechesi-tradendae-es/01.catechesi-tradendae-introduction.adoc#catechesi-tradendae-1[cf. Juan Pablo II, Catechesi tradendae [CT\] 1]).
 
 [[ccc-5]]
-^5^ "La catequesis es una educación en la fe de los niños, de los jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada generalmente de modo orgánico y sistemático con miras a iniciarlos en la plenitud de la vida cristiana"{fn-8}.
+^5^ "La catequesis es una educación en la fe de los niños, de los jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada generalmente de modo orgánico y sistemático con miras a iniciarlos en la plenitud de la vida cristiana" (xref:../../../catechesi-tradendae/catechesi-tradendae-es/04.catechesi-tradendae-part-3.adoc#catechesi-tradendae-18[CT 18]).
 
 [[ccc-6]]
-^6^ "La catequesis es una educación en la fe de los niños, de los jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada generalmente de modo orgánico y sistemático con miras a iniciarlos en la plenitud de la vida cristiana"{fn-8}.
+^6^ "La catequesis es una educación en la fe de los niños, de los jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada generalmente de modo orgánico y sistemático con miras a iniciarlos en la plenitud de la vida cristiana" (xref:../../../catechesi-tradendae/catechesi-tradendae-es/04.catechesi-tradendae-part-3.adoc#catechesi-tradendae-18[CT 18]).
 
 [[ccc-7]]
-^7^ "La catequesis está unida íntimamente a toda la vida de la Iglesia. No sólo la extensión geográfica y el aumento numérico de la Iglesia, sino también y, más aún, su crecimiento interior, su correspondencia con el designio de Dios dependen esencialmente de ella"{fn-9}.
+^7^ "La catequesis está unida íntimamente a toda la vida de la Iglesia. No sólo la extensión geográfica y el aumento numérico de la Iglesia, sino también y, más aún, su crecimiento interior, su correspondencia con el designio de Dios dependen esencialmente de ella" (xref:../../../catechesi-tradendae/catechesi-tradendae-es/03.catechesi-tradendae-part-2.adoc#catechesi-tradendae-13[CT 13]).
 
 [[ccc-8]]
 ^8^ Los períodos de renovación de la Iglesia son también tiempos en los que a la catequesis le corresponde un mayor empeño. Así, en la gran época de los Padres de la Iglesia, vemos a santos obispos consagrar una parte importante de su ministerio a la catequesis. Es la época de san Cirilo de Jerusalén y de san Juan Crisóstomo, de san Ambrosio y de san Agustín, y de muchos otros Padres cuyas obras catequéticas siguen siendo modelos.
@@ -50,7 +39,7 @@ ____
 ^9^ El ministerio de la catequesis saca energías siempre nuevas de los concilios. El Concilio de Trento constituye a este respecto un ejemplo digno de ser destacado: dio a la catequesis una prioridad en sus constituciones y sus decretos; de él nació el Catecismo Romano que lleva también su nombre y que constituye una obra de primer orden como resumen de la doctrina cristiana; este Concilio suscitó en la Iglesia una organización notable de la catequesis; promovió, gracias a santos obispos y teólogos como san Pedro Canisio, san Carlos Borromeo, san Toribio de Mogrovejo, san Roberto Belarmino, la publicación de numerosos catecismos.
 
 [[ccc-10]]
-^10^ No es extraño, por ello, que, en el dinamismo del Concilio Vaticano II (que el Papa Pablo VI consideraba como el gran catecismo de los tiempos modernos), la catequesis de la Iglesia haya atraído de nuevo la atención. El Directorio general de la catequesis de 1971, las sesiones del Sínodo de los Obispos consagradas a la evangelización (1974) y a la catequesis (1977), las exhortaciones apostólicas correspondientes, xref:../../../evangelii-nuntiandi/evangelii-nuntiandi-es/evangelii-nuntiandi-es.adoc[Evangelii nuntiandi (1975)] y xref:../../../catechesi-tradendae/catechesi-tradendae-es/catechesi-tradendae-es.adoc[Catechesi tradendae (1979)], dan testimonio de ello. La sesión extraordinaria del Sínodo de los Obispos de 1985 pidió "que sea redactado un catecismo o compendio de toda la doctrina católica, tanto sobre la fe como sobre la moral" (Relación final II, B, a, 4). El Santo Padre, Juan Pablo II, hizo suyo este deseo emitido por el Sínodo de los Obispos reconociendo que "responde totalmente a una verdadera necesidad de la Iglesia universal y de las Iglesias particulares" (Discurso de clausura del Sínodo, asamblea extraordinaria, 7 de diciembre de 1985). El Papa dispuso todo lo necesario para que se realizara la petición de los padres sinodales.
+^10^ No es extraño, por ello, que, en el dinamismo del Concilio Vaticano II (que el Papa Pablo VI consideraba como el gran catecismo de los tiempos modernos), la catequesis de la Iglesia haya atraído de nuevo la atención. El Directorio general de la catequesis de 1971, las sesiones del Sínodo de los Obispos consagradas a la evangelización (1974) y a la catequesis (1977), las exhortaciones apostólicas correspondientes, Evangelii nuntiandi (1975) y xref:../../../catechesi-tradendae/catechesi-tradendae-es/catechesi-tradendae-es.adoc[Catechesi tradendae (1979)], dan testimonio de ello. La sesión extraordinaria del Sínodo de los Obispos de 1985 pidió "que sea redactado un catecismo o compendio de toda la doctrina católica, tanto sobre la fe como sobre la moral" (Relación final II, B, a, 4). El Santo Padre, Juan Pablo II, hizo suyo este deseo emitido por el Sínodo de los Obispos reconociendo que "responde totalmente a una verdadera necesidad de la Iglesia universal y de las Iglesias particulares" (Discurso de clausura del Sínodo, asamblea extraordinaria, 7 de diciembre de 1985). El Papa dispuso todo lo necesario para que se realizara la petición de los padres sinodales.
 
 [[ccc-prologue-3]]
 == III. Fin y destinatarios de este Catecismo
@@ -71,7 +60,7 @@ ____
 === Primera parte: la profesión de la fe]
 
 [[ccc-14]]
-^14^ Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres{fn-10}. Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (primera sección). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los "tres capítulos" de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (segunda sección).
+^14^ Los que por la fe y el Bautismo pertenecen a Cristo deben confesar su fe bautismal delante de los hombres (xref:../../../bible/biblia-de-jerusalen/2-new-testament/47-mathew.adoc#mathew-10-32[cf. Mt 10,32]; xref:../../../bible/biblia-de-jerusalen/2-new-testament/52-romans.adoc#romans-10-9[cf. Rom 10,9]). Para esto, el catecismo expone en primer lugar en qué consiste la Revelación por la que Dios se dirige y se da al hombre, y la fe, por la cual el hombre responde a Dios (primera sección). El Símbolo de la fe resume los dones que Dios hace al hombre como Autor de todo bien, como Redentor, como Santificador y los articula en torno a los "tres capítulos" de nuestro Bautismo —la fe en un solo Dios: el Padre Todopoderoso, el Creador; y Jesucristo, su Hijo, nuestro Señor y Salvador; y el Espíritu Santo, en la Santa Iglesia (segunda sección).
 
 [[ccc-prologue-4-2]]
 === Segunda parte: Los sacramentos de la fe
