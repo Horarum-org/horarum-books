@@ -17,7 +17,7 @@
 ^28^ De múltiples maneras, en su historia, y hasta el día de hoy, los hombres han expresado su búsqueda de Dios por medio de sus creencias y sus comportamientos religiosos (oraciones, sacrificios, cultos, meditaciones, etc.). A pesar de las ambigüedades que pueden entrañar, estas formas de expresión son tan universales que se puede llamar al hombre un ser religioso:
 
 [verse]
-Dios «creó [...], de un solo principio, todo el linaje humano, para que habitase sobre toda la faz de la tierra y determinó con exactitud el tiempo y los límites del lugar donde habían de habitar, con el fin de que buscasen a Dios, para ver si a tientas le buscaban y le hallaban; por más que no se encuentra lejos de cada uno de nosotros; pues en él vivimos, nos movemos y existimos» ([to=acts-17-28]#xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc#acts-17-26[Hch 17, 26-28]#).
+Dios «creó [...], de un solo principio, todo el linaje humano, para que habitase sobre toda la faz de la tierra y determinó con exactitud el tiempo y los límites del lugar donde habían de habitar, con el fin de que buscasen a Dios, para ver si a tientas le buscaban y le hallaban; por más que no se encuentra lejos de cada uno de nosotros; pues en él vivimos, nos movemos y existimos» (xref:../../../bible/biblia-de-jerusalen/2-new-testament/51-acts.adoc?to=acts-17-28#acts-17-26[Hch 17, 26-28]).
 --
 
 [[ccc-29]]
