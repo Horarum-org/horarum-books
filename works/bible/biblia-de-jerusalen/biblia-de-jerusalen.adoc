@@ -36,7 +36,7 @@ include::1-old-testament/22-job.adoc[]
 include::1-old-testament/23-psalms.adoc[]
 include::1-old-testament/24-proverbs.adoc[]
 include::1-old-testament/25-ecclesiastes.adoc[]
-include::1-old-testament/26-song.of.songs.adoc[]
+include::1-old-testament/26-song-of-songs.adoc[]
 include::1-old-testament/27-wisdom.adoc[]
 include::1-old-testament/28-sirach.adoc[]
 include::1-old-testament/29-isaiah.adoc[]
@@ -65,7 +65,7 @@ include::1-old-testament/46-malachi.adoc[]
 
 :leveloffset: +2
 
-include::2-new-testament/47-mathew.adoc[]
+include::2-new-testament/47-matthew.adoc[]
 include::2-new-testament/48-mark.adoc[]
 include::2-new-testament/49-luke.adoc[]
 include::2-new-testament/50-john.adoc[]
