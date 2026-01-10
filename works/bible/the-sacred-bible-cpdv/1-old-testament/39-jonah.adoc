@@ -1,5 +1,6 @@
 [[jonah]]
-= Jonah
+= The Prophecy of Jonah
+:short: Jonah
 
 [[jonah-1]]
 == Chapter 1

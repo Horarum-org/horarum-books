@@ -1,5 +1,6 @@
 [[joel]]
-= Joel
+= The Prophecy of Joel
+:short: Joel
 
 [[joel-1]]
 == Chapter 1

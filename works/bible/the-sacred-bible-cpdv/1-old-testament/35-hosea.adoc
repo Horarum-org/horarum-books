@@ -1,5 +1,6 @@
 [[hosea]]
-= Hosea
+= The Prophecy of Hosea
+:short: Hosea
 
 [[hosea-1]]
 == Chapter 1

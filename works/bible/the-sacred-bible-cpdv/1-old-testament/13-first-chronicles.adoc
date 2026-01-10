@@ -1,5 +1,6 @@
 [[first-chronicles]]
 = The First Book of Chronicles
+:short: 1st Chronicles
 
 [[first-chronicles-1]]
 == Chapter 1

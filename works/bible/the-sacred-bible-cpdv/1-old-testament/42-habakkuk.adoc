@@ -1,5 +1,6 @@
 [[habakkuk]]
-= Habakkuk
+= The Prophecy of Habakkuk
+:short: Habakkuk
 
 [[habakkuk-1]]
 == Chapter 1

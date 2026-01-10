@@ -1,5 +1,6 @@
 [[proverbs]]
-= Proverbs
+= The Book of Proverbs
+:short: Proverbs
 
 [[proverbs-1]]
 == Chapter 1

@@ -1,5 +1,6 @@
 [[nehemiah]]
-= Nehemiah
+= The Book of Nehemiah
+:short: Nehemiah
 
 [[nehemiah-1]]
 == Chapter 1

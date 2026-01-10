@@ -1,5 +1,6 @@
 [[second-kings]]
 = The Second Book of Kings
+:short: 2nd Kings
 
 [[second-kings-1]]
 == Chapter 1

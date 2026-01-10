@@ -1,5 +1,6 @@
 [[exodus]]
-= Exodus
+= The Book of Exodus
+:short: Exodus
 
 [[exodus-1]]
 == Chapter 1

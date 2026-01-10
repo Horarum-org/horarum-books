@@ -1,5 +1,6 @@
 [[joshua]]
-= Joshua
+= The Book of Joshua
+:short: Joshua
 
 [[joshua-1]]
 == Chapter 1

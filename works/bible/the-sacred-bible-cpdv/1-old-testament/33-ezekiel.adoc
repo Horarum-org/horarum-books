@@ -1,5 +1,6 @@
 [[ezekiel]]
-= Ezekiel
+= The Prophecy of Ezekiel
+:short: Ezekiel
 
 [[ezekiel-1]]
 == Chapter 1

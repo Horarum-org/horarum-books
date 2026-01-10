@@ -1,5 +1,6 @@
 [[daniel]]
-= Daniel
+= The Prophecy of Daniel
+:short: Daniel
 
 [[daniel-1]]
 == Chapter 1

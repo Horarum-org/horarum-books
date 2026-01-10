@@ -1,5 +1,6 @@
 [[first-samuel]]
 = The First Book of Samuel
+:short: 1st Samuel
 
 [[first-samuel-1]]
 == Chapter 1

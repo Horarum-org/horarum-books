@@ -1,5 +1,6 @@
 [[wisdom]]
-= Wisdom
+= The Wisdom of Solomon
+:short: Wisdom
 
 [[wisdom-1]]
 == Chapter 1

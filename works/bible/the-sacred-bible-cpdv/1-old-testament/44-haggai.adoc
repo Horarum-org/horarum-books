@@ -1,5 +1,6 @@
 [[haggai]]
-= Haggai
+= The Prophecy of Haggai
+:short: Haggai
 
 [[haggai-1]]
 == Chapter 1

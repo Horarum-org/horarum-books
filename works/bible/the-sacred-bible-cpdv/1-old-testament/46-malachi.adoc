@@ -1,5 +1,6 @@
 [[malachi]]
-= Malachi
+= The Prophecy of Malachi
+:short: Malachi
 
 [[malachi-1]]
 == Chapter 1

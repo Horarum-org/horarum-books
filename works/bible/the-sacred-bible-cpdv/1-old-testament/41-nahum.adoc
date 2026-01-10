@@ -1,5 +1,6 @@
 [[nahum]]
-= Nahum
+= The Prophecy of Nahum
+:short: Nahum
 
 [[nahum-1]]
 == Chapter 1

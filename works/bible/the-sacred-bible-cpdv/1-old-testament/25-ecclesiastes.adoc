@@ -1,5 +1,6 @@
 [[ecclesiastes]]
-= Ecclesiastes
+= The Words of Ecclesiastes
+:short: Ecclesiastes
 
 [[ecclesiastes-1]]
 == Chapter 1

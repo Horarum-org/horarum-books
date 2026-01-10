@@ -1,5 +1,6 @@
 [[ezra]]
-= Ezra
+= The Book of Ezra
+:short: Ezra
 
 [[ezra-1]]
 == Chapter 1

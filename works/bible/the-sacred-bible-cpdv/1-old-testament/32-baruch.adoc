@@ -1,5 +1,6 @@
 [[baruch]]
-= Baruch
+= The Book of Baruch
+:short: Baruch
 
 [[baruch-1]]
 == Chapter 1

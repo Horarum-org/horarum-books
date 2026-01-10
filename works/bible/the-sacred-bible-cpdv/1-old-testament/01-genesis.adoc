@@ -1,5 +1,6 @@
 [[genesis]]
-= Genesis
+= The Book of Genesis
+:short: Genesis
 
 [[genesis-1]]
 == Chapter 1

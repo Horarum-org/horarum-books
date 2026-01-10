@@ -1,5 +1,6 @@
 [[first-kings]]
 = The First Book of Kings
+:short: 1st Kings
 
 [[first-kings-1]]
 == Chapter 1

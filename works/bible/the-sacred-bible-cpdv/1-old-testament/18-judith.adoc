@@ -1,5 +1,6 @@
 [[judith]]
-= Judith
+= The Book of Judith
+:short: Judith
 
 [[judith-1]]
 == Chapter 1

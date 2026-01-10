@@ -4,6 +4,7 @@
 :doctype: book
 :toclevels: 2
 :lang: en
+:short: The Sacred Bible (CPDV)
 
 [[old-testament]]
 == Old Testament
@@ -61,5 +62,32 @@ include::1-old-testament/46-malachi.adoc[]
 == New Testament
 
 :leveloffset: +2
+
+include::2-new-testament/47-matthew.adoc[]
+include::2-new-testament/48-mark.adoc[]
+include::2-new-testament/50-john.adoc[]
+include::2-new-testament/51-acts.adoc[]
+include::2-new-testament/52-romans.adoc[]
+include::2-new-testament/53-first-corinthians.adoc[]
+include::2-new-testament/54-second-corinthians.adoc[]
+include::2-new-testament/55-galatians.adoc[]
+include::2-new-testament/56-ephesians.adoc[]
+include::2-new-testament/57-philippians.adoc[]
+include::2-new-testament/58-colossians.adoc[]
+include::2-new-testament/59-first-thessalonians.adoc[]
+include::2-new-testament/60-second-thessalonians.adoc[]
+include::2-new-testament/61-first-timothy.adoc[]
+include::2-new-testament/62-second-timothy.adoc[]
+include::2-new-testament/63-titus.adoc[]
+include::2-new-testament/64-philemon.adoc[]
+include::2-new-testament/65-hebrews.adoc[]
+include::2-new-testament/66-james.adoc[]
+include::2-new-testament/67-first-peter.adoc[]
+include::2-new-testament/68-second-peter.adoc[]
+include::2-new-testament/69-first-john.adoc[]
+include::2-new-testament/70-second-john.adoc[]
+include::2-new-testament/71-third-john.adoc[]
+include::2-new-testament/72-jude.adoc[]
+include::2-new-testament/73-revelations.adoc[]
 
 :leveloffset: -2

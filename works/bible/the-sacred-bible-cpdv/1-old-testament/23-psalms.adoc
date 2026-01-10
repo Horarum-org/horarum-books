@@ -1,5 +1,6 @@
 [[psalms]]
-= Psalms
+= The Book of Psalms
+:short: Psalms
 
 [[psalms-1]]
 == Chapter 1

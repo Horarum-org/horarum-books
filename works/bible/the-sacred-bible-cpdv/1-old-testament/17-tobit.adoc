@@ -1,5 +1,6 @@
 [[tobit]]
-= Tobit
+= The Book of Tobit
+:short: Tobit
 
 [[tobit-1]]
 == Chapter 1

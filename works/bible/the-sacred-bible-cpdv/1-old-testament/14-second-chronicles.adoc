@@ -1,5 +1,6 @@
 [[second-chronicles]]
 = The Second Book of Chronicles
+:short: 2nd Chronicles
 
 [[second-chronicles-1]]
 == Chapter 1

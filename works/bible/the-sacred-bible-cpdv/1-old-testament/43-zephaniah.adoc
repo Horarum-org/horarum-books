@@ -1,5 +1,6 @@
 [[zephaniah]]
-= Zephaniah
+= The Prophecy of Zephaniah
+:short: Zephaniah
 
 [[zephaniah-1]]
 == Chapter 1

@@ -1,5 +1,6 @@
 [[leviticus]]
-= Leviticus
+= The Book of Leviticus
+:short: Leviticus
 
 [[leviticus-1]]
 == Chapter 1

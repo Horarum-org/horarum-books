@@ -1,5 +1,6 @@
 [[jeremiah]]
-= Jeremiah
+= The Prophecy of Jeremiah
+:short: Jeremiah
 
 [[jeremiah-1]]
 == Chapter 1

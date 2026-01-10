@@ -1,5 +1,6 @@
 [[judges]]
-= Judges
+= The Book of Judges
+:short: Judges
 
 [[judges-1]]
 == Chapter 1

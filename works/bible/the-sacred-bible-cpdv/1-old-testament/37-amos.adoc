@@ -1,5 +1,6 @@
 [[amos]]
-= Amos
+= The Prophecy of Amos
+:short: Amos
 
 [[amos-1]]
 == Chapter 1

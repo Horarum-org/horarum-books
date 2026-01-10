@@ -1,5 +1,6 @@
 [[obadiah]]
-= Obadiah
+= The Prophecy of Obadiah
+:short: Obadiah
 
 [[obadiah-1]]
 == Chapter 1

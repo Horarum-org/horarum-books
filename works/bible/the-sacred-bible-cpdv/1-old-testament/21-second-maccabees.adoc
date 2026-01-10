@@ -1,5 +1,6 @@
 [[second-maccabees]]
 = The Second Book of Maccabees
+:short: 2nd Maccabees
 
 [[second-maccabees-1]]
 == Chapter 1

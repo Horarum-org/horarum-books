@@ -1,5 +1,6 @@
 [[micah]]
-= Micah
+= The Prophecy of Micah
+:short: Micah
 
 [[micah-1]]
 == Chapter 1

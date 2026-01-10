@@ -1,5 +1,6 @@
 [[deuteronomy]]
-= Deuteronomy
+= The Book of Deuteronomy
+:short: Deuteronomy
 
 [[deuteronomy-1]]
 == Chapter 1

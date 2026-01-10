@@ -1,5 +1,6 @@
 [[first-maccabees]]
 = The First Book of Maccabees
+:short: 1st Maccabees
 
 [[first-maccabees-1]]
 == Chapter 1

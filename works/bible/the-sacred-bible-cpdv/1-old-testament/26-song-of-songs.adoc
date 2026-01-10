@@ -1,5 +1,6 @@
 [[song-of-songs]]
-= The Song of Songs
+= The Song of Solomon
+:short: Song of Songs
 
 [[song-of-songs-1]]
 == Chapter 1

@@ -1,5 +1,6 @@
 [[sirach]]
-= Ecclesiasticus
+= The Book of Ecclesiasticus
+:short: Sirach
 
 [[sirach-prologue]]
 == Prologue

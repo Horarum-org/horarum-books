@@ -1,5 +1,6 @@
 [[isaiah]]
-= Isaiah
+= The Prophecy of Isaiah
+:short: Isaiah
 
 [[isaiah-1]]
 == Chapter 1

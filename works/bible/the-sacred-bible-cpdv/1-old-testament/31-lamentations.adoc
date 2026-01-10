@@ -1,5 +1,6 @@
 [[lamentations]]
-= Lamentations
+= The Lamentations of Jeremiah
+:short: Lamentations
 
 [[lamentations-p]]
 == Prologue

@@ -1,5 +1,6 @@
 [[ruth]]
-= Ruth
+= The Book of Ruth
+:short: Ruth
 
 [[ruth-1]]
 == Chapter 1

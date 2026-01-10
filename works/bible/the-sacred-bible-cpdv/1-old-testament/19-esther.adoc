@@ -1,5 +1,6 @@
 [[esther]]
-= Esther
+= The Book of Esther
+:short: Esther
 
 [[esther-1]]
 == Chapter 1

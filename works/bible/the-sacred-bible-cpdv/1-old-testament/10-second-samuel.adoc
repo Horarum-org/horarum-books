@@ -1,5 +1,6 @@
 [[second-samuel]]
 = The Second Book of Samuel
+:short: 2nd Samuel
 
 [[second-samuel-1]]
 == Chapter 1

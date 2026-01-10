@@ -1,5 +1,6 @@
 [[numbers]]
-= Numbers
+= The Book of Numbers
+:short: Numbers
 
 [[numbers-1]]
 == Chapter 1
