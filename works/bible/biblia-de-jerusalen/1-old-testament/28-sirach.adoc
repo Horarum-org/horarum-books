@@ -1,39 +1,47 @@
 [[sirach]]
 = Eclesiástico
 
-[[sirach-prologue]]
+[[sirach-p]]
 == Prólogo
 
-^1^ Muchas e importantes lecciones se nos han transmitido
-^2^ por la Ley, los Profetas y los otros que les han seguido,
-^3^ por las cuales bien se debe encomiar a Israel por su instrucción y sabiduría.
-^4^ Mas como es razón que no sólo los lectores se hagan sabios,
-^5^ sino que puedan también estos amigos del saber ser útiles a los de fuera,
-^6^ tanto de palabra como por escrito,
-^7^ mi abuelo Jesús, después de haberse dado intensamente a la lectura
-^8^ de la Ley,
-^9^ los Profetas
-^10^ y los otros libros de los antepasados,
-^11^ y haber adquirido un gran dominio en ellos,
-^12^ se propuso también él escribir algo en lo tocante a instrucción y sabiduría,
-^13^ con ánimo de que los amigos del saber, lo aceptaran
-^14^ y progresaran más todavía en la vida según la Ley.
-^15^ Estáis, pues, invitados
-^16^ a leerlo
-^17^ con benevolencia y atención,
-^18^ así como a mostrar indulgencia
-^19^ allí donde se crea que, a pesar de nuestros denodados esfuerzos de interpretación,
-^20^ no hemos podido acertar en alguna expresión.
-^21^ Pues no tienen la misma fuerza
-^22^ las cosas expresadas originalmente en hebreo que cuando se traducen a otra lengua.
-^23^ Cosa que no sucede sólo en esto,
-^24^ sino que también la misma Ley, los Profetas,
-^25^ y los otros libros
-^26^ presentan no pequeña diferencia respecto de lo que dice el original.
-^27^ Fue, pues, en el año treinta y ocho del rey Evergetes
-^28^ cuando, después de venir a Egipto y residir allí,
-^29^ encontré una obra de no pequeña enseñanza,
-^30^ y juzgué muy necesario aportar yo también algún interés y esfuerzo para traducir este libro.
+[sirach-p-1]#^1^ Muchas e importantes lecciones se nos han transmitido#
+[sirach-p-2]#^2^ por la Ley, los Profetas y los otros que les han seguido,#
+[sirach-p-3]#^3^ por las cuales bien se debe encomiar a Israel por su instrucción y sabiduría.#
+[sirach-p-4]#^4^ Mas como es razón que no sólo los lectores se hagan sabios,#
+[sirach-p-5]#^5^ sino que puedan también estos amigos del saber ser útiles a los de fuera,#
+[sirach-p-6]#^6^ tanto de palabra como por escrito,#
+[sirach-p-7]#^7^ mi abuelo Jesús, después de haberse dado intensamente a la lectura#
+[sirach-p-8]#^8^ de la Ley,#
+[sirach-p-9]#^9^ los Profetas#
+[sirach-p-10]#^10^ y los otros libros de los antepasados,#
+[sirach-p-11]#^11^ y haber adquirido un gran dominio en ellos,#
+[sirach-p-12]#^12^ se propuso también él escribir algo en lo tocante a instrucción y sabiduría,#
+[sirach-p-13]#^13^ con ánimo de que los amigos del saber, lo aceptaran#
+[sirach-p-14]#^14^ y progresaran más todavía en la vida según la Ley.#
+
+[sirach-p-15]#^15^ Estáis, pues, invitados#
+[sirach-p-16]#^16^ a leerlo#
+[sirach-p-17]#^17^ con benevolencia y atención,#
+[sirach-p-18]#^18^ así como a mostrar indulgencia#
+[sirach-p-19]#^19^ allí donde se crea que, a pesar de nuestros denodados esfuerzos de interpretación,#
+[sirach-p-20]#^20^ no hemos podido acertar en alguna expresión.#
+[sirach-p-21]#^21^ Pues no tienen la misma fuerza#
+[sirach-p-22]#^22^ las cosas expresadas originalmente en hebreo que cuando se traducen a otra lengua.#
+[sirach-p-23]#^23^ Cosa que no sucede sólo en esto,#
+[sirach-p-24]#^24^ sino que también la misma Ley, los Profetas,#
+[sirach-p-25]#^25^ y los otros libros#
+[sirach-p-26]#^26^ presentan no pequeña diferencia respecto de lo que dice el original.#
+
+[sirach-p-27]#^27^ Fue, pues, en el año treinta y ocho del rey Evergetes#
+[sirach-p-28]#^28^ cuando, después de venir a Egipto y residir allí,#
+[sirach-p-29]#^29^ encontré una obra de no pequeña enseñanza,#
+[sirach-p-30]#^30^ y juzgué muy necesario aportar yo también algún interés y esfuerzo para traducir este libro, ahora lo publico#
+er,
+[sirach-p-31]#^31^ Mucha vigilia y ciencia he puesto en juego#
+[sirach-p-32]#^32^ durante este período,#
+[sirach-p-33]#^33^ hasta llegar a buen término y publicar el libro#
+[sirach-p-34]#^34^ para uso de aquellos que, en el extranjero, quieren ser amigos del saber,#
+[sirach-p-35]#^35^ y conformar sus costumbres a una vida de acuerdo con la Ley.#
 
 [[sirach-1]]
 == Capítulo 1
