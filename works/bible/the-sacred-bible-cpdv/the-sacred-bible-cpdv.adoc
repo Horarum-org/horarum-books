@@ -1,5 +1,5 @@
-[[jerusalem-bible]]
-= The Jerusalem Bible
+[[the-sacred-bible-cpdv]]
+= The Sacred Bible – Catholic Public Domain Version
 :toc: left
 :doctype: book
 :toclevels: 2
