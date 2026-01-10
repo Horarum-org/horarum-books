@@ -1,8 +1,14 @@
 import { Work } from './model';
 import webp from 'webp-converter';
+import * as fs from 'fs';
 
 export function processImage(work: Work, variantId: string) {
-  const imagePath = `works/${work.id}/${variantId}/${variantId}.png`;
+  let imagePath = `works/${work.id}/${variantId}/${variantId}.png`;
+
+  if (!fs.existsSync(imagePath)) {
+    imagePath = `works/${work.id}/${variantId}/${variantId}.jpg`;
+  }
+
   const destinationFolder = `dist/${variantId}`;
 
   webp.cwebp(
