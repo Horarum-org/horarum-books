@@ -3,3 +3,6 @@
 
 == Español
 xref:./biblia-de-jerusalen/biblia-de-jerusalen.adoc[Biblia de Jerusalén]
+
+== English
+xref:./the-sacred-bible-cpdv/the-sacred-bible-cpdv.adoc[The Sacred Bible – Catholic Public Domain Version]
