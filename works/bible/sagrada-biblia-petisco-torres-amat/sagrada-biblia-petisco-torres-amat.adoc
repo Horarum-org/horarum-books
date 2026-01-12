@@ -1,0 +1,22 @@
+[[sagrada-biblia-petisco-torres-amat]]
+= Sagrada Biblia (Petisco-Torres Amat)
+:toc: left
+:doctype: book
+:toclevels: 2
+:lang: es
+
+[[old-testament]]
+== Antiguo Testamento
+
+:leveloffset: +2
+
+include::1-old-testament/01-genesis.adoc[]
+
+:leveloffset: -2
+
+[[new-testament]]
+== Nuevo Testamento
+
+:leveloffset: +2
+
+:leveloffset: -2
