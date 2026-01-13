@@ -1,32 +1,3 @@
-:fn-107: footnote:[Mt. 3, 17.]
-:fn-108: footnote:[Mt. 4, 1.]
-:fn-109: footnote:[Lc. 4, 14.]
-:fn-110: footnote:[Lc. 4, 18, 21 cf. Is 61, 1.]
-:fn-111: footnote:[Jn. 20, 22.]
-:fn-112: footnote:[Act. 2, 17.]
-:fn-113: footnote:[Cf. Act. 4, 8.]
-:fn-114: footnote:[Cf. Act. 9, 17.]
-:fn-115: footnote:[Cf. Act. 6, 5. 10; 7, 55.]
-:fn-116: footnote:[Cf. Act. 10, 44.]
-:fn-117: footnote:[Cf. Act. 9, 31.]
-:fn-118: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 4: AAS 58 (1966), pp. 950-951.]
-:fn-119: footnote:[Cf. Jn. 17, 21.]
-:fn-120: footnote:[Cf. Act. 20, 28.]
-:fn-121: footnote:[Cf. Decr. Presbyterorum ordinis, 13: AAS 58 (1966), p. 1011.]
-:fn-122: footnote:[Cf. Heb. 11, 27.]
-:fn-123: footnote:[Decr. Ad gentes, 6: AAS 58 (1966), pp. 954-955; cf. Decr. Unitatis redintegratio, 1: AAS 57 (1965), pp. 90-91.]
-:fn-124: footnote:[Bula Apostolorum limina, VII: AAS 66 (1974), p. 305.]
-:fn-125: footnote:[Rom. 5, 5.]
-:fn-126: footnote:[Cf. Jn. 8, 32.]
-:fn-127: footnote:[1 Tes. 2, 8: cf. Flp. 1, 8.]
-:fn-128: footnote:[Cf. 1 Tes. 2, 7. 11; 1 Cor. 4, 15; Gál. 4, 19.]
-:fn-129: footnote:[Cf. 1 Cor. 8, 9-13; Rom. 14, 15.]
-:fn-130: footnote:[Cf. Rom. 12, 11.]
-:fn-131: footnote:[Cf. Conc. Ecum. Vat. II, Decl. Dignitatis humanae, 4: AAS 58 (1966), p. 933.]
-:fn-132: footnote:[Cf. ib., 9-14: AAS, pp. 935-940.]
-:fn-133: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 7: AAS 58 (1966), p. 955.]
-:fn-134: footnote:[Cf. Rom. 1, 16.]
-
 [[evangelii-nuntiandi-part-7]]
 = VII - EL ESPÍRITU DE LA EVANGELIZACIÓN
 
@@ -39,6 +10,19 @@ En nombre de nuestro Señor Jesucristo, de los Apóstoles Pedro y Pablo, exhorta
 
 [[evangelii-nuntiandi-75]]
 == Bajo el aliento del Espíritu
+
+:fn-107: footnote:[Mt. 3, 17.]
+:fn-108: footnote:[Mt. 4, 1.]
+:fn-109: footnote:[Lc. 4, 14.]
+:fn-110: footnote:[Lc. 4, 18, 21 cf. Is 61, 1.]
+:fn-111: footnote:[Jn. 20, 22.]
+:fn-112: footnote:[Act. 2, 17.]
+:fn-113: footnote:[Cf. Act. 4, 8.]
+:fn-114: footnote:[Cf. Act. 9, 17.]
+:fn-115: footnote:[Cf. Act. 6, 5. 10; 7, 55.]
+:fn-116: footnote:[Cf. Act. 10, 44.]
+:fn-117: footnote:[Cf. Act. 9, 31.]
+:fn-118: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 4: AAS 58 (1966), pp. 950-951.]
 
 75&#46; No habrá nunca evangelización posible sin la acción del Espíritu Santo. Sobre Jesús de Nazaret el Espíritu descendió en el momento del bautismo, cuando la voz del Padre —"Tú eres mi hijo muy amado, en ti pongo mi complacencia"—{fn-107} manifiesta de manera sensible su elección y misión.
 
@@ -61,6 +45,11 @@ El Sínodo de los Obispos de 1974, insistiendo mucho sobre el puesto que ocupa e
 [[evangelii-nuntiandi-76]]
 == Testigos auténticos
 
+:fn-119: footnote:[Cf. Jn. 17, 21.]
+:fn-120: footnote:[Cf. Act. 20, 28.]
+:fn-121: footnote:[Cf. Decr. Presbyterorum ordinis, 13: AAS 58 (1966), p. 1011.]
+:fn-122: footnote:[Cf. Heb. 11, 27.]
+
 76&#46; Consideramos ahora la persona misma de los evangelizadores. Se ha repetido frecuentemente en nuestros días que este siglo siente sed de autenticidad. Sobre todo con relación a los jóvenes, se afirma que éstos sufren horrores ante lo ficticio, ante la falsedad, y que además son decididamente partidarios de la verdad y la transparencia.
 
 A estos "signos de los tiempos" debería corresponder en nosotros una actitud vigilante. Tácitamente o a grandes gritos, pero siempre con fuerza, se nos pregunta: ¿Creéis verdaderamente en lo que anunciáis? ¿Vivís lo que creéis? ¿Predicáis verdaderamente lo que vivís? Hoy más que nunca el testimonio de vida se ha convertido en una condición esencial con vistas a una eficacia real de la predicación. Sin andar con rodeos, podemos decir que en cierta medida nos hacemos responsables del Evangelio que proclamamos.
@@ -73,6 +62,10 @@ Paradójicamente, el mundo, que a pesar de los innumerables signos de rechazo de
 
 [[evangelii-nuntiandi-77]]
 == Búsqueda de la unidad
+
+:fn-123: footnote:[Decr. Ad gentes, 6: AAS 58 (1966), pp. 954-955; cf. Decr. Unitatis redintegratio, 1: AAS 57 (1965), pp. 90-91.]
+:fn-124: footnote:[Bula Apostolorum limina, VII: AAS 66 (1974), p. 305.]
+:fn-125: footnote:[Rom. 5, 5.]
 
 77&#46; La fuerza de la evangelización quedará muy debilitada si los que anuncian el Evangelio están divididos entre sí por tantas clases de rupturas. ¿No estará quizás ahí uno de los grandes males de la evangelización? En efecto, si el Evangelio que proclamamos aparece desgarrado por querellas doctrinales, por polarizaciones ideológicas o por condenas recíprocas entre cristianos, al antojo de sus diferentes teorías sobre Cristo y sobre la Iglesia, e incluso a causa de sus distintas concepciones de la sociedad y de las instituciones humanas, ¿cómo pretender que aquellos a los que se dirige nuestra predicación no se muestren perturbados, desorientados, si no escandalizados?
 
@@ -87,6 +80,8 @@ Con una gran sensación de esperanza vemos los esfuerzos que se realizan en el m
 [[evangelii-nuntiandi-78]]
 == Servidores de la verdad
 
+:fn-126: footnote:[Cf. Jn. 8, 32.]
+
 78&#46; El Evangelio que nos ha sido encomendado es también palabra de verdad. Una verdad que hace libres{fn-126} y que es la única que procura la paz del corazón; esto es lo que la gente va buscando cuando le anunciamos la Buena Nueva. La verdad acerca de Dios, la verdad acerca del hombre y de su misterioso destino, la verdad acerca del mundo. Verdad difícil que buscamos en la Palabra de Dios y de la cual nosotros no somos, lo repetimos una vez más, ni los dueños, ni los árbitros, sino los depositarios, los herederos, los servidores.
 
 De todo evangelizador se espera que posea el culto a la verdad, puesto que la verdad que él profundiza y comunica no es otra que la verdad revelada y, por tanto, más que ninguna otra, forma parte de la verdad primera que es el mismo Dios. El predicador del Evangelio será aquel que, aun a costa de renuncias y sacrificios, busca siempre la verdad que debe transmitir a los demás. No vende ni disimula jamás la verdad por el deseo de agradar a los hombres, de causar asombro, ni por originalidad o deseo de aparentar. No rechaza nunca la verdad. No obscurece la verdad revelada por pereza de buscarla, por comodidad, por miedo. No deja de estudiarla. La sirve generosamente sin avasallarla.
@@ -99,6 +94,10 @@ Padres y maestros: vuestra tarea, que los múltiples conflictos actuales hacen d
 
 [[evangelii-nuntiandi-79]]
 == Animados por el amor
+
+:fn-127: footnote:[1 Tes. 2, 8: cf. Flp. 1, 8.]
+:fn-128: footnote:[Cf. 1 Tes. 2, 7. 11; 1 Cor. 4, 15; Gál. 4, 19.]
+:fn-129: footnote:[Cf. 1 Cor. 8, 9-13; Rom. 14, 15.]
 
 79&#46; La obra de la evangelización supone, en el evangelizador, un amor fraternal siempre creciente hacia aquellos a los que evangeliza. Un modelo de evangelizador como el Apóstol San Pablo escribía a los tesalonicenses estas palabras que son todo un programa para nosotros: "Así, llevados de nuestro amor por vosotros, queremos no sólo daros el Evangelio de Dios, sino aun nuestras propias vidas: tan amados vinisteis a sernos"{fn-127}.
 
@@ -114,6 +113,12 @@ Será también una señal de amor el esfuerzo desplegado para transmitir a los c
 
 [[evangelii-nuntiandi-80]]
 == Con el fervor de los Santos
+
+:fn-130: footnote:[Cf. Rom. 12, 11.]
+:fn-131: footnote:[Cf. Conc. Ecum. Vat. II, Decl. Dignitatis humanae, 4: AAS 58 (1966), p. 933.]
+:fn-132: footnote:[Cf. ib., 9-14: AAS, pp. 935-940.]
+:fn-133: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 7: AAS 58 (1966), p. 955.]
+:fn-134: footnote:[Cf. Rom. 1, 16.]
 
 80&#46; Nuestra llamada se inspira ahora en el fervor de los más grandes predicadores y evangelizadores, cuya vida fue consagrada al apostolado. De entre ellos nos complacemos en recordar aquellos que Nos mismo hemos propuesto a la veneración de los fieles durante el Año Santo. Ellos han sabido superar todos los obstáculos que se oponían a la evangelización.
 

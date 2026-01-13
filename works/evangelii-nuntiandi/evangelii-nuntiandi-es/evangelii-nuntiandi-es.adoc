@@ -1,10 +1,16 @@
 [[evangelii-nuntiandi-es]]
-= Evangelii Nuntiandi
+= Evangelii Nuntiandi: EXHORTACIÓN APOSTÓLICA DE SU SANTIDAD PABLO VI
 :toc: left
 :doctype: book
 :toclevels: 1
 :lang: es
 :docdate: 1975-12-08
+
+[.text-center]
+[.lead]
+AL EPISCOPADO, AL CLERO Y A LOS FIELES +
+DE TODA LA IGLESIA ACERCA DE LA EVANGELIZACIÓN +
+EN EL MUNDO CONTEMPORÁNEO
 
 :leveloffset: +1
 

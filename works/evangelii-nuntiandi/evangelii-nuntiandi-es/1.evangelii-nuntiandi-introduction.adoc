@@ -1,15 +1,3 @@
-:fn-1: footnote:[Cf. Lc. 22, 32.]
-:fn-2: footnote:[Cf. 2 Cor. 11, 28.]
-:fn-3: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 1: AAS 58 (1966), p. 947.]
-:fn-4: footnote:[Cf. Ef. 4, 24; 2, 15; Col. 3, 10; Gál. 3, 27; Rom. 13, 14; 2 Cor. 5, 17.]
-:fn-5: footnote:[2 Cor. 5, 20.]
-:fn-6: footnote:[Cf. Pablo VI, Discurso en la clausura de la III Asamblea General del Sínodo de los Obispos (26 de octubre de 1974): AAS 66 (1974), pp. 634-635.]
-:fn-7: footnote:[Pablo VI, Discurso al Sacro Colegio Cardenalicio (22 de junio de 1973): AAS 65 (1973), p. 383.]
-:fn-8: footnote:[2 Cor. 11, 28.]
-:fn-9: footnote:[1 Tim. 5, 17.]
-:fn-10: footnote:[2 Tim. 2, 15.]
-:fn-11: footnote:[Cf. 1 Cor. 2, 5.]
-
 [[evangelii-nuntiandi-introduction]]
 = INTRODUCCIÓN
 
@@ -21,12 +9,20 @@ Salud y Bendición Apostólica
 [[evangelii-nuntiandi-1]]
 == Compromiso evangelizador
 
+:fn-1: footnote:[Cf. Lc. 22, 32.]
+:fn-2: footnote:[Cf. 2 Cor. 11, 28.]
+
 1&#46; El esfuerzo orientado al anuncio del Evangelio a los hombres de nuestro tiempo, exaltados por la esperanza pero a la vez perturbados con frecuencia por el temor y la angustia, es sin duda alguna un servicio que se presenta a la comunidad cristiana e incluso a toda la humanidad.
 
 De ahí que el deber de confirmar a los hermanos, que hemos recibido del Señor al confiársenos la misión del Sucesor de Pedro {fn-1}, y que constituye para Nos un cuidado de cada día{fn-2}, un programa de vida y de acción, a la vez que un empeño fundamental de nuestro pontificado, ese deber, decimos, nos parece todavía más noble y necesario cuando se trata de alentar a nuestros hermanos en su tarea de evangelizadores, a fin de que en estos tiempos de incertidumbre y malestar la cumplan con creciente amor, celo y alegría.
 
 [[evangelii-nuntiandi-2]]
 == Conmemorando tres acontecimientos
+
+:fn-3: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 1: AAS 58 (1966), p. 947.]
+:fn-4: footnote:[Cf. Ef. 4, 24; 2, 15; Col. 3, 10; Gál. 3, 27; Rom. 13, 14; 2 Cor. 5, 17.]
+:fn-5: footnote:[2 Cor. 5, 20.]
+:fn-6: footnote:[Cf. Pablo VI, Discurso en la clausura de la III Asamblea General del Sínodo de los Obispos (26 de octubre de 1974): AAS 66 (1974), pp. 634-635.]
 
 2&#46; Esto es lo que deseamos hacer ahora, al final del Año Santo, durante el cual la Iglesia se ha esforzado en anunciar el Evangelio a todos los hombres{fn-3}, sin embargo otro objetivo que el de cumplir su deber de mensajera de la Buena Nueva de Jesucristo proclamada a partir de dos consignas fundamentales: "vestíos del hombre nuevo"{fn-4} y "reconciliaos con Dios"{fn-5}.
 
@@ -36,6 +32,8 @@ Nos queremos hacer esto un año después de la III Asamblea General del Sínodo 
 
 [[evangelii-nuntiandi-3]]
 == Tema frecuente de nuestro pontificado
+
+:fn-7: footnote:[Pablo VI, Discurso al Sacro Colegio Cardenalicio (22 de junio de 1973): AAS 65 (1973), p. 383.]
 
 3&#46; En diversas ocasiones, ya antes del Sínodo, Nos pusimos de relieve la importancia de este tema de la evangelización. "Las condiciones de la sociedad —decíamos al Sacro Colegio Cardenalicio del 22 de junio de 1973— nos obligan, por tanto, a revisar métodos, a buscar por todos los medios el modo de llevar al hombre moderno el mensaje cristiano, en el cual únicamente podrá hallar la respuesta a sus interrogantes y la fuerza para su empeño de solidaridad humana"{fn-7}. Y añadíamos que, para dar una respuesta válida a las exigencias del Concilio que nos están acuciando, necesitamos absolutamente ponernos en contacto con el patrimonio de fe que la Iglesia tiene el deber de preservar en toda su pureza, y a la vez el deber de presentarlo a los hombres de nuestro tiempo, con los medios a nuestro alcance, de una manera comprensible y persuasiva.
 
@@ -52,6 +50,11 @@ Estas preguntas desarrollan, en el fondo, la cuestión fundamental que la Iglesi
 
 [[evangelii-nuntiandi-5]]
 == Invitación a la reflexión y exhortación
+
+:fn-8: footnote:[2 Cor. 11, 28.]
+:fn-9: footnote:[1 Tim. 5, 17.]
+:fn-10: footnote:[2 Tim. 2, 15.]
+:fn-11: footnote:[Cf. 1 Cor. 2, 5.]
 
 5&#46; Todos vemos la necesidad urgente de dar a tal pregunta una respuesta, leal, humilde, valiente, y de obrar en consecuencia.
 

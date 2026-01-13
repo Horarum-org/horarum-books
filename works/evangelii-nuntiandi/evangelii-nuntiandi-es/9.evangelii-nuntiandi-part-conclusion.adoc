@@ -1,5 +1,3 @@
-:fn-135: footnote:[Flp. 1, 3-4. 7-8.]
-
 [[evangelii-nuntiandi-conclusion]]
 = CONCLUSIÓN
 
@@ -12,6 +10,8 @@ Que la luz del Año Santo, que ha brillado en las Iglesias particulares y en Rom
 
 [[evangelii-nuntiandi-82]]
 == María, estrella de evangelización
+
+:fn-135: footnote:[Flp. 1, 3-4. 7-8.]
 
 82&#46; Estos son los deseos que nos complacemos en depositar en las manos y en el corazón de la Santísima Virgen, la Inmaculada, en este día especialmente dedicado a Ella y en el X aniversario de la clausura del Concilio Vaticano II. En la mañana de Pentecostés, Ella presidió con su oración el comienzo de la evangelización bajo el influjo del Espíritu Santo. Sea Ella la estrella de la evangelización siempre renovada que la Iglesia, dócil al mandato del Señor, debe promover y realizar, sobre todo en estos tiempos difíciles y llenos de esperanza.
 

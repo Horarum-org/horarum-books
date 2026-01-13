@@ -1,10 +1,3 @@
-:fn-67: footnote:[Pablo VI, Discurso a los miembros del Consilium de Laicis (2 octubre 1974): AAS 66 (1974), p. 568.]
-:fn-68: footnote:[Cf. 1 Pe. 3, 1.]
-:fn-69: footnote:[Rom. 10, 14. 17.]
-:fn-70: footnote:[Cf. 1 Cor. 2, 1-5.]
-:fn-71: footnote:[Rom. 10, 17.]
-:fn-72: footnote:[Cf. Mt. 10, 27; Lc. 12, 3.]
-
 [[evangelii-nuntiandi-part-4]]
 = IV - MEDIOS DE EVANGELIZACIÓN
 
@@ -22,10 +15,17 @@ Bástenos aquí recordar algunos sistemas de evangelización, que por un motivo 
 [[evangelii-nuntiandi-41]]
 == El testimonio de vida
 
+:fn-67: footnote:[Pablo VI, Discurso a los miembros del Consilium de Laicis (2 octubre 1974): AAS 66 (1974), p. 568.]
+:fn-68: footnote:[Cf. 1 Pe. 3, 1.]
+
 41&#46; Ante todo, y sin necesidad de repetir lo que ya hemos recordado antes, hay que subrayar esto: para la Iglesia el primer medio de evangelización consiste en un testimonio de vida auténticamente cristiana, entregada a Dios en una comunión que nada debe interrumpir y a la vez consagrada igualmente al prójimo con un celo sin límites. "El hombre contemporáneo escucha más a gusto a los que dan testimonio que a los que enseñan —decíamos recientemente a un grupo de seglares—, o si escuchan a los que enseñan, es porque dan testimonio"{fn-67}. San Pedro lo expresaba bien cuando exhortaba a una vida pura y respetuosa, para que si alguno se muestra rebelde a la palabra, sea ganado por la conducta{fn-68}. Será sobre todo mediante su conducta, mediante su vida, como la Iglesia evangelizará al mundo, es decir, mediante un testimonio vivido de fidelidad a Jesucristo, de pobreza y desapego de los bienes materiales, de libertad frente a los poderes del mundo, en una palabra de santidad.
 
 [[evangelii-nuntiandi-42]]
 == Una predicación viva
+
+:fn-69: footnote:[Rom. 10, 14. 17.]
+:fn-70: footnote:[Cf. 1 Cor. 2, 1-5.]
+:fn-71: footnote:[Rom. 10, 17.]
 
 42&#46; No es superfluo subrayar a continuación la importancia y necesidad de la predicación: "Pero ¿cómo invocarán a Aquel en quien no han creído? Y, ¿cómo creerán sin haber oído de El? Y ¿cómo oirán si nadie les predica?... Luego, la fe viene de la audición, y la audición, por la palabra de Cristo"{fn-69}. Esta ley enunciada un día por San Pablo conserva hoy todo su vigor.
 
@@ -45,6 +45,8 @@ Añadamos que, gracias a la renovación de la liturgia, la celebración eucarís
 
 [[evangelii-nuntiandi-45]]
 == Utilización de los medios de comunicación social
+
+:fn-72: footnote:[Cf. Mt. 10, 27; Lc. 12, 3.]
 
 45&#46; En nuestro siglo influenciado por los medios de comunicación social, el primer anuncio, la catequesis o el ulterior ahondamiento de la fe, no pueden prescindir de esos medios, como hemos dicho antes.
 

@@ -1,43 +1,12 @@
-:fn-12: footnote:[Lc. 4, 43.]
-:fn-13: footnote:[Ibidem.]
-:fn-14: footnote:[Lc. 4, 18; cf. Is. 61, 1.]
-:fn-15: footnote:[Cf. Mc. 1, 1; Rom. 1-3.]
-:fn-16: footnote:[Cf. Mt. 6, 33.]
-:fn-17: footnote:[Cf. Mt. 5, 3-12.]
-:fn-18: footnote:[Cf. Mt. 5-7.]
-:fn-19: footnote:[Cf. Mt. 10.]
-:fn-20: footnote:[Cf. Mt. 13.]
-:fn-21: footnote:[Cf. Mt. 18.]
-:fn-22: footnote:[Cf. Mt. 24-25.]
-:fn-23: footnote:[Cf. Mt. 24, 36; Act. 1, 7; 1 Tes. 5, 1-2.]
-:fn-24: footnote:[Cf. Mt. 11, 12; Lc. 16, 16.]
-:fn-25: footnote:[Cf. Mt. 4, 17.]
-:fn-26: footnote:[Mc. 1, 27.]
-:fn-27: footnote:[Lc. 4, 22.]
-:fn-28: footnote:[Jn. 7, 46.]
-:fn-29: footnote:[Lc. 4, 43.]
-:fn-30: footnote:[Jn. 11, 52.]
-:fn-31: footnote:[Cf. Conc. Ecum. Vat. II, Const. dog. Dei Verbum, 4: AAS 58 (1966), pp. 818-819.]
-:fn-32: footnote:[Cf. 1 Pe. 2, 9.]
-:fn-33: footnote:[Cf. Act. 2, 11.]
-:fn-34: footnote:[Lc. 4, 43.]
-:fn-35: footnote:[1 Cor. 9, 16.]
-:fn-36: footnote:[Cf. Declaración de los Padres sinodales, n. 4: L'Oservatore Romano, Edición en Lengua Española, 3 de noviembre de 1974, pág. 8.]
-:fn-37: footnote:[Mt.28, 19.]
-:fn-38: footnote:[Act.2, 41-47.]
-:fn-39: footnote:[Cf. Conc. Ecum. Vat. II, Const. dogm. Lumen gentium, 8: AAS 57 (1965), p. 11; Decr. Ad gentes, 5: AAS 28 (1966), pp. 951-952.]
-:fn-40: footnote:[Cf. Act. 2, 42-46; 4, 32-35; 5, 12-16.]
-:fn-41: footnote:[Cf. Act. 2, 11; 1 Pe 2, 9.]
-:fn-42: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 5, 11, 12. AAS 58 (1966), pp. 951-952, 959-961.]
-:fn-43: footnote:[Cf. 2 Cor. 4, 5; S. Agustín, Sermo XLVI De Pastoribus: CCL 41, pp. 529-530.]
-:fn-44: footnote:[Lc. 10, 16. Cf. S. Cipriano, De unitate Eclessiae, 14: PL 4, 527; S. Agustín, Enarrat. 88, Sermo, 2, 14. PL 37, 1140; S. Juan Crisóstomo, Hom. de capto Eutropio, 6 PG 52, 402.]
-:fn-45: footnote:[Ef. 5, 25.]
-
 [[evangelii-nuntiandi-part-1]]
 = I - DEL CRISTO EVANGELIZADOR A LA IGLESIA EVANGELIZADORA
 
 [[evangelii-nuntiandi-6]]
 == Testimonio y misión de Jesús
+
+:fn-12: footnote:[Lc. 4, 43.]
+:fn-13: footnote:[Ibidem.]
+:fn-14: footnote:[Lc. 4, 18; cf. Is. 61, 1.]
 
 6&#46; El testimonio que el Señor da de Sí mismo y que San Lucas ha recogido en su Evangelio "Es preciso que anuncie también el reino de Dios en otras ciudades"{fn-12}, tiene sin duda un gran alcance, ya que define en una sola frase toda la misión de Jesús: "porque para esto he sido enviado"{fn-13}. Estas palabras alcanzan todo su significado cuando se las considera a la luz de los versículos anteriores en los que Cristo se aplica a Sí mismo las palabras del profeta Isaías: "El Espíritu del Señor está sobre mí, porque me ungió para evangelizar a los pobres"{fn-14}.
 
@@ -46,6 +15,8 @@ Proclamar de ciudad en ciudad, sobre todo a los más pobres, con frecuencia los 
 [[evangelii-nuntiandi-7]]
 == Jesús primer evangelizador
 
+:fn-15: footnote:[Cf. Mc. 1, 1; Rom. 1-3.]
+
 7&#46; Durante el Sínodo, los obispos han recordado con frecuencia esta verdad: Jesús mismo, Evangelio de Dios{fn-15}, ha sido el primero y el más grande evangelizador. Lo ha sido hasta el final, hasta la perfección, hasta el sacrificio de su existencia terrena.
 
 Evangelizar: ¿Qué significado ha tenido esta palabra para Cristo? Ciertamente no es fácil expresar en una síntesis completa el sentido, el contenido, las formas de evangelización tal como Jesús lo concibió y lo puso en práctica. Por otra parte, esta síntesis nunca podrá ser concluida. Bástenos, aquí recordar algunos aspectos esenciales.
@@ -53,40 +24,76 @@ Evangelizar: ¿Qué significado ha tenido esta palabra para Cristo? Ciertamente 
 [[evangelii-nuntiandi-8]]
 == El anuncio del reino de Dios
 
+:fn-16: footnote:[Cf. Mt. 6, 33.]
+:fn-17: footnote:[Cf. Mt. 5, 3-12.]
+:fn-18: footnote:[Cf. Mt. 5-7.]
+:fn-19: footnote:[Cf. Mt. 10.]
+:fn-20: footnote:[Cf. Mt. 13.]
+:fn-21: footnote:[Cf. Mt. 18.]
+:fn-22: footnote:[Cf. Mt. 24-25.]
+
 8&#46; Cristo, en cuanto evangelizador, anuncia ante todo un reino, el reino de Dios, tan importante que, en relación a él, todo se convierte en "lo demás", que es dado por añadidura{fn-16}. Solamente el reino es pues absoluto y todo el resto es relativo. El Señor se complacerá en describir de muy diversas maneras la dicha de pertenecer a ese reino, una dicha paradójica hecha de cosas que el mundo rechaza{fn-17}, las exigencias del reino y su carta magna{fn-18}, los heraldos del reino{fn-19}, los misterios del mismo{fn-20}, sus hijos{fn-21}, la vigilancia y fidelidad requeridas a quien espera su llegada definitiva{fn-22}.
 
 [[evangelii-nuntiandi-9]]
 == El anuncio de la salvación liberadora
+
+:fn-23: footnote:[Cf. Mt. 24, 36; Act. 1, 7; 1 Tes. 5, 1-2.]
 
 9&#46; Como núcleo y centro de su Buena Nueva, Jesús anuncia la salvación, ese gran don de Dios que es liberación de todo lo que oprime al hombre, pero que es sobre todo liberación del pecado y del maligno, dentro de la alegría de conocer a Dios y de ser conocido por El, de verlo, de entregarse a El. Todo esto tiene su arranque durante la vida de Cristo, y se logra de manea definitiva por su muerte y resurrección; pero debe ser continuado pacientemente a través de la historia hasta ser plenamente realizado el día de la venida final del mismo Cristo, cosa que nadie sabe cuándo tendrá lugar, a excepción del Padre {fn-23}.
 
 [[evangelii-nuntiandi-10]]
 == A costa de grandes sacrificios
 
+:fn-24: footnote:[Cf. Mt. 11, 12; Lc. 16, 16.]
+:fn-25: footnote:[Cf. Mt. 4, 17.]
+
 10&#46; Este reino y esta salvación —palabras clave en la evangelización de Jesucristo— pueden ser recibidos por todo hombre, como gracia y misericordia; pero a la vez cada uno debe conquistarlos con la fuerza, "el reino de los cielos está en tensión y los esforzados lo arrebatan", dice el Señor{fn-24}, con la fatiga y el sufrimiento, con una vida conforme al Evangelio, con la renuncia y la cruz, con el espíritu de las bienaventuranzas. Pero, ante todo, cada uno los consigue mediante un total cambio interior, que el Evangelio designa con el nombre de metanoia, una conversión radical, una transformación profunda de la mente y del corazón{fn-25}.
 
 [[evangelii-nuntiandi-11]]
 == Predicación infatigable
+
+:fn-26: footnote:[Mc. 1, 27.]
+:fn-27: footnote:[Lc. 4, 22.]
+:fn-28: footnote:[Jn. 7, 46.]
 
 11&#46; Cristo llevó a cabo esta proclamación del reino de Dios, mediante la predicación infatigable de una palabra, de la que se dirá que no admite parangón con ninguna otra: "¿Qué es esto? Una doctrina nueva y revestida de autoridad"{fn-26}; "Todos le aprobaron, maravillados de las palabras llenas de gracia, que salían de su boca..."{fn-27}; "Jamás hombre alguno habló como éste"{fn-28}. Sus palabras desvelan el secreto de Dios, su designio y su promesa, y por eso cambian el corazón del hombre y su destino.
 
 [[evangelii-nuntiandi-12]]
 == Signos evangélicos
 
+:fn-29: footnote:[Lc. 4, 43.]
+:fn-30: footnote:[Jn. 11, 52.]
+:fn-31: footnote:[Cf. Conc. Ecum. Vat. II, Const. dog. Dei Verbum, 4: AAS 58 (1966), pp. 818-819.]
+
 12&#46; Pero El realiza también esta proclamación de la salvación por medio de innumerables signos que provocan estupor en las muchedumbres y que al mismo tiempo las arrastran hacia El para verlo, escucharlo y dejarse transformar por El: enfermos curados, agua convertida en vino, pan multiplicado, muertos que vuelven a la vida y, sobre todo, su propia resurrección. Y al centro de todo, el signo al que El atribuye una gran importancia: los pequeños, los pobres son evangelizados, se convierten en discípulos suyos, se reúnen "en su nombre" en la gran comunidad de los que creen en El. Porque el Jesús que declara: "Es preciso que anuncie también el reino de Dios en otras ciudades, porque para eso he sido enviado"{fn-29}, es el mismo Jesús de quien Juan el Evangelista decía que había venido y debía morir "para reunir en uno todos los hijos de Dios, que están dispersos"{fn-30}. Así termina su revelación, completándola y confirmándola, con la manifestación hecha de Sí mismo, con palabras y obras, con señales y milagros, y de manera particular con su muerte, su resurrección y el envío del Espíritu de Verdad{fn-31}.
 
 [[evangelii-nuntiandi-13]]
 == Hacia una comunidad evangelizada y evangelizadora
+
+:fn-32: footnote:[Cf. 1 Pe. 2, 9.]
+:fn-33: footnote:[Cf. Act. 2, 11.]
 
 13&#46; Quienes acogen con sinceridad la Buena Nueva, mediante tal acogida y la participación en la fe, se reúnen pues en el nombre de Jesús para buscar juntos el reino, construirlo, vivirlo. Ellos constituyen una comunidad que es a la vez evangelizadora. La orden dada a los Doce: "Id y proclamad la Buena Nueva", vale también, aunque de manera diversa, para todos los cristianos. Por esto Pedro los define "pueblo adquirido para pregonar las excelencias del que os llamó de la tinieblas a su luz admirable"{fn-32}. Estas son las maravillas que cada uno ha podido escuchar en su propia lengua{fn-33}. Por lo demás, la Buena Nueva del reino que llega y que ya ha comenzado, es para todos los hombres de todos los tiempos. Aquellos que ya la han recibido y que están reunidos en la comunidad de salvación, pueden y deben comunicarla y difundirla.
 
 [[evangelii-nuntiandi-14]]
 == La evangelización, vocación propia de la Iglesia
 
+:fn-34: footnote:[Lc. 4, 43.]
+:fn-35: footnote:[1 Cor. 9, 16.]
+:fn-36: footnote:[Cf. Declaración de los Padres sinodales, n. 4: L'Oservatore Romano, Edición en Lengua Española, 3 de noviembre de 1974, pág. 8.]
+
 14&#46; La Iglesia lo sabe. Ella tiene viva conciencia de que las palabras del Salvador: "Es preciso que anuncie también el reino de Dios en otras ciudades"{fn-34}, se aplican con toda verdad a ella misma. Y por su parte ella añade de buen grado, siguiendo a San Pablo: "Porque, si evangelizo, no es para mí motivo de gloria, sino que se me impone como necesidad. ¡Ay de mí, si no evangelizara!"{fn-35}. Con gran gozo y consuelo hemos escuchado Nos, al final de la Asamblea de octubre de 1974, estas palabras luminosas: "Nosotros queremos confirmar una vez más que la tarea de la evangelización de todos los hombres constituye la misión esencial de la Iglesia"{fn-36}; una tarea y misión que los cambios amplios y profundos de la sociedad actual hacen cada vez más urgentes. Evangelizar constituye, en efecto, la dicha y vocación propia de la Iglesia, su identidad más profunda. Ella existe para evangelizar, es decir, para predicar y enseñar, ser canal del don de la gracia, reconciliar a los pecadores con Dios, perpetuar el sacrificio de Cristo en la santa Misa, memorial de su muerte y resurrección gloriosa.
 
 [[evangelii-nuntiandi-15]]
 == Vínculos recíprocos entre la Iglesia y la evangelización
+
+:fn-37: footnote:[Mt.28, 19.]
+:fn-38: footnote:[Act.2, 41-47.]
+:fn-39: footnote:[Cf. Conc. Ecum. Vat. II, Const. dogm. Lumen gentium, 8: AAS 57 (1965), p. 11; Decr. Ad gentes, 5: AAS 28 (1966), pp. 951-952.]
+:fn-40: footnote:[Cf. Act. 2, 42-46; 4, 32-35; 5, 12-16.]
+:fn-41: footnote:[Cf. Act. 2, 11; 1 Pe 2, 9.]
+:fn-42: footnote:[Cf. Conc. Ecum. Vat. II, Decr. Ad gentes, 5, 11, 12. AAS 58 (1966), pp. 951-952, 959-961.]
+:fn-43: footnote:[Cf. 2 Cor. 4, 5; S. Agustín, Sermo XLVI De Pastoribus: CCL 41, pp. 529-530.]
 
 15&#46; Quien lee en el Nuevo Testamento los orígenes de la Iglesia y sigue paso a paso su historia, quien la ve vivir y actuar, se da cuenta de que ella está vinculada a la evangelización de la manera más íntima:
 
@@ -104,6 +111,9 @@ En ella, la vida íntima —la vida de oración, la escucha de la Palabra y de l
 
 [[evangelii-nuntiandi-16]]
 == La Iglesia, inseparable de Cristo
+
+:fn-44: footnote:[Lc. 10, 16. Cf. S. Cipriano, De unitate Eclessiae, 14: PL 4, 527; S. Agustín, Enarrat. 88, Sermo, 2, 14. PL 37, 1140; S. Juan Crisóstomo, Hom. de capto Eutropio, 6 PG 52, 402.]
+:fn-45: footnote:[Ef. 5, 25.]
 
 16&#46; Existe, por tanto, un nexo íntimo entre Cristo, la Iglesia y la evangelización. Mientras dure este tiempo de la Iglesia, es ella la que tiene a su cargo la tarea de evangelizar. Una tarea que no se cumple sin ella, ni mucho menos contra ella.
 

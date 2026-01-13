@@ -1,17 +1,10 @@
-:fn-73: footnote:[Mc. 16, 15.]
-:fn-74: footnote:[Cf. S. Justino, I Apología, 46, 1-4; II Apología 7 (8) 1-4; 10, 1-3; 13, 3-4: Florilegium Patristicum II, Bonn 1911, pp. 81, 125, 129, 133; Clemente Alejandrino, Stromata I, 19, 91, 94: S. Ch. 30, pp. 117-118, 119-120; Conc. Ecum. Vat. II, Decr. Ad gentes, 11: AAS 58 (1966), p. 960; Const. dogm. Lumen gentium, 17: AAS 57 (1965), p. 21.]
-:fn-75: footnote:[Cf. Eusebio de Cesarea, Praeparatio Evangelica, I, 1: PG 21, 26-28; cf. Const. dogm. Lumen gentium, 16: AAS 57 (1965), p. 20.]
-:fn-76: footnote:[Cf. Ef. 3, 8.]
-:fn-77: footnote:[Henri de Lubac, Le drame de l'humanisme athée, Ed. Spes, París 1945.]
-:fn-78: footnote:[Cf. Const. past. Gaudium et spes, 59: AAS 58 (1966), p. 1080.]
-:fn-79: footnote:[1 Tim. 2, 4.]
-:fn-80: footnote:[Mt. 9, 36; 15, 32.]
-
 [[evangelii-nuntiandi-part-5]]
 = V - LOS DESTINATARIOS DE LA EVANGELIZACIÓN
 
 [[evangelii-nuntiandi-49]]
 == Destino universal
+
+:fn-73: footnote:[Mc. 16, 15.]
 
 49&#46; Las últimas palabras de Jesús en el Evangelio de Marcos confieren a la evangelización, que el Señor confía a los Apóstoles, una universalidad sin fronteras: "Id por todo el mundo y predicad el Evangelio a toda criatura"{fn-73}.
 
@@ -39,6 +32,10 @@ La Iglesia lleva a efecto este primer anuncio de Jesucristo mediante una activid
 [[evangelii-nuntiandi-53]]
 == Religiones no cristianas
 
+:fn-74: footnote:[Cf. S. Justino, I Apología, 46, 1-4; II Apología 7 (8) 1-4; 10, 1-3; 13, 3-4: Florilegium Patristicum II, Bonn 1911, pp. 81, 125, 129, 133; Clemente Alejandrino, Stromata I, 19, 91, 94: S. Ch. 30, pp. 117-118, 119-120; Conc. Ecum. Vat. II, Decr. Ad gentes, 11: AAS 58 (1966), p. 960; Const. dogm. Lumen gentium, 17: AAS 57 (1965), p. 21.]
+:fn-75: footnote:[Cf. Eusebio de Cesarea, Praeparatio Evangelica, I, 1: PG 21, 26-28; cf. Const. dogm. Lumen gentium, 16: AAS 57 (1965), p. 20.]
+:fn-76: footnote:[Cf. Ef. 3, 8.]
+
 53&#46; Asimismo se dirige a inmensos sectores de la humanidad que practican religiones no cristianas. La Iglesia respeta y estima estas religiones no cristianas, por ser la expresión viviente del alma de vastos grupos humanos. Llevan en sí mismas el eco de milenios a la búsqueda de Dios; búsqueda incompleta pero hecha frecuentemente con sinceridad y rectitud de corazón. Poseen un impresionante patrimonio de textos profundamente religiosos. Han enseñado a generaciones de personas a orar. Todas están llenas de innumerables "semillas del Verbo"{fn-74} y constituyen una auténtica "preparación evangélica"{fn-75}, por citar una feliz expresión del Concilio Vaticano II tomada de Eusebio de Cesarea.
 
 Ciertamente, tal situación suscita cuestiones complejas y delicadas, que conviene estudiar a la luz de la Tradición cristiana y del Magisterio de la Iglesia, con el fin de ofrecer a los misioneros de hoy y de mañana nuevos horizontes en sus contactos con las religiones no cristianas. Ante todo, queremos poner ahora de relieve que ni el respeto ni la estima hacia estas religiones, ni la complejidad de las cuestiones planteadas implican para la Iglesia una invitación a silenciar ante los no cristianos el anuncio de Jesucristo. Al contrario, la Iglesia piensa que estas multitudes tienen derecho a conocer la riqueza del misterio de Cristo{fn-76}, dentro del cual creemos que toda la humanidad puede encontrar, con insospechada plenitud, todo lo que busca a tientas acerca de Dios, del hombre y de su destino, de la vida y de la muerte, de la verdad. De ahí que, aun frente a las expresiones religiosas naturales más dignas de estima, la Iglesia se funde en el hecho de que la religión de Jesús, la misma que Ella anuncia por medio de la evangelización, sitúa objetivamente al hombre en relación con el plan de Dios, con su presencia viva, con su acción; hace hallar de nuevo el misterio de la Paternidad divina que sale al encuentro de la humanidad. En otras palabras, nuestra religión instaura efectivamente una relación auténtica y viviente con Dios, cosa que las otras religiones no lograron establecer, por más que tienen, por decirlo así, extendidos sus brazos hacia el cielo.
@@ -56,6 +53,9 @@ La Iglesia católica abriga un vivo anhelo de los cristianos que no están en pl
 
 [[evangelii-nuntiandi-55]]
 == Secularismo ateo
+
+:fn-77: footnote:[Henri de Lubac, Le drame de l'humanisme athée, Ed. Spes, París 1945.]
+:fn-78: footnote:[Cf. Const. past. Gaudium et spes, 59: AAS 58 (1966), p. 1080.]
 
 55&#46; Igualmente significativa es la preocupación, presente en el Sínodo, hacia dos esferas muy diferentes la una de la otra y sin embargo muy próximas entre sí por el desafío que, cada una a su modo, lanzan a la evangelización. La primera es aquella que podemos llamar el aumento de la incredulidad en el mundo moderno. El Sínodo se propuso describir este mundo moderno: bajo este nombre genérico, ¡cuántas corrientes de pensamiento, valores y contravalores, aspiraciones latentes o semillas de destrucción, convicciones antiguas que desaparecen y convicciones nuevas que se imponen!
 
@@ -78,6 +78,9 @@ Secularismo ateo y ausencia de práctica religiosa se encuentran en los adultos 
 
 [[evangelii-nuntiandi-57]]
 == Anuncio a las muchedumbres
+
+:fn-79: footnote:[1 Tim. 2, 4.]
+:fn-80: footnote:[Mt. 9, 36; 15, 32.]
 
 57&#46; Como Cristo durante el tiempo de su predicación, como los Doce en la mañana de Pentecostés, la Iglesia tiene también ante sí una inmensa muchedumbre humana que necesita del Evangelio y tiene derecho al mismo, pues Dios "quiere que todos los hombres se salven y lleguen al conocimiento de la verdad"{fn-79}.
 
